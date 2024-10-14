@@ -1,0 +1,1051 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1728905894446,16518,Test,200,"Number of samples in transaction : 32, number of failing samples : 0",Thread Group 1-1,,true,,2552665,12488,3,3,null,0,194,2812
+1728905894547,2421,https://www.demoblaze.com/index.html,200,OK,Thread Group 1-1,text,true,,5155,756,3,3,https://www.demoblaze.com/index.html,2401,0,1962
+1728905896985,534,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,200,OK,Thread Group 1-1,text,true,,28171,399,3,3,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,427,0,0
+1728905897521,502,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,200,OK,Thread Group 1-1,text,true,,12538,393,3,3,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,409,0,0
+1728905898025,510,https://www.demoblaze.com/css/latofonts.css,200,OK,Thread Group 1-1,text,true,,1392,367,3,3,https://www.demoblaze.com/css/latofonts.css,510,0,0
+1728905898538,371,https://www.demoblaze.com/css/latostyle.css,200,OK,Thread Group 1-1,text,true,,917,367,3,3,https://www.demoblaze.com/css/latostyle.css,371,0,0
+1728905898912,475,https://www.demoblaze.com/imgs/front.jpg,200,OK,Thread Group 1-1,bin,true,,24949,410,3,3,https://www.demoblaze.com/imgs/front.jpg,437,0,0
+1728905899389,829,https://www.demoblaze.com/Samsung1.jpg,200,OK,Thread Group 1-1,bin,true,,27679,408,3,3,https://www.demoblaze.com/Samsung1.jpg,479,0,0
+1728905900220,439,https://www.demoblaze.com/nexus1.jpg,200,OK,Thread Group 1-1,bin,true,,34140,406,3,3,https://www.demoblaze.com/nexus1.jpg,325,0,0
+1728905900662,400,https://www.demoblaze.com/iphone1.jpg,200,OK,Thread Group 1-1,bin,true,,34899,407,3,3,https://www.demoblaze.com/iphone1.jpg,295,0,0
+1728905901064,299,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,200,OK,Thread Group 1-1,text,true,,36257,373,3,3,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,244,0,0
+1728905901365,817,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,200,OK,Thread Group 1-1,text,true,,481586,374,3,3,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,216,0,0
+1728905902184,249,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,200,OK,Thread Group 1-1,text,true,,72258,399,3,3,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,234,0,0
+1728905902433,375,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,200,OK,Thread Group 1-1,text,true,,9013,376,3,3,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,354,0,0
+1728905902810,380,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,200,OK,Thread Group 1-1,text,true,,15410,382,3,3,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,375,0,0
+1728905903192,421,https://www.demoblaze.com/js/index.js,200,OK,Thread Group 1-1,text,true,,2899,346,3,3,https://www.demoblaze.com/js/index.js,421,0,0
+1728905903615,302,https://www.demoblaze.com/bm.png,200,OK,Thread Group 1-1,bin,true,,4263,402,3,3,https://www.demoblaze.com/bm.png,270,0,0
+1728905903919,631,https://www.demoblaze.com/css/fonts/Lato-Regular.woff2,200,OK,Thread Group 1-1,text,true,,183009,363,3,3,https://www.demoblaze.com/css/fonts/Lato-Regular.woff2,523,0,0
+1728905904551,342,https://www.demoblaze.com/bm.png,304,Not Modified,Thread Group 1-1,,true,,165,427,3,3,https://www.demoblaze.com/bm.png,0,0,0
+1728905904894,306,https://www.demoblaze.com/config.json,200,OK,Thread Group 1-1,text,true,,379,423,3,3,https://www.demoblaze.com/config.json,306,0,0
+1728905905203,810,https://api.demoblaze.com/entries,200,OK,Thread Group 1-1,text,true,,2931,342,3,3,https://api.demoblaze.com/entries,810,0,468
+1728905906015,567,https://hls.demoblaze.com/index.m3u8,200,OK,Thread Group 1-1,text,true,,1255,345,3,3,https://hls.demoblaze.com/index.m3u8,567,0,382
+1728905906584,286,https://www.demoblaze.com/favicon.ico,200,OK,Thread Group 1-1,bin,true,,5483,407,3,3,https://www.demoblaze.com/favicon.ico,286,0,0
+1728905906872,156,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,200,OK,Thread Group 1-1,text,true,,6057,359,3,3,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,134,0,0
+1728905907029,325,https://www.demoblaze.com/imgs/galaxy_s6.jpg,200,OK,Thread Group 1-1,bin,true,,107733,414,3,3,https://www.demoblaze.com/imgs/galaxy_s6.jpg,283,0,0
+1728905907355,325,https://www.demoblaze.com/imgs/Lumia_1520.jpg,200,OK,Thread Group 1-1,bin,true,,145514,415,3,3,https://www.demoblaze.com/imgs/Lumia_1520.jpg,285,0,0
+1728905907681,338,https://www.demoblaze.com/imgs/Nexus_6.jpg,200,OK,Thread Group 1-1,bin,true,,232097,412,3,3,https://www.demoblaze.com/imgs/Nexus_6.jpg,246,0,0
+1728905908020,402,https://www.demoblaze.com/imgs/iphone_6.jpg,200,OK,Thread Group 1-1,bin,true,,201243,413,3,3,https://www.demoblaze.com/imgs/iphone_6.jpg,298,0,0
+1728905908423,386,https://www.demoblaze.com/imgs/xperia_z5.jpg,200,OK,Thread Group 1-1,bin,true,,143968,414,3,3,https://www.demoblaze.com/imgs/xperia_z5.jpg,326,0,0
+1728905908810,537,https://www.demoblaze.com/imgs/HTC_M9.jpg,200,OK,Thread Group 1-1,bin,true,,97234,411,3,3,https://www.demoblaze.com/imgs/HTC_M9.jpg,424,0,0
+1728905909349,274,https://www.demoblaze.com/imgs/sony_vaio_5.jpg,200,OK,Thread Group 1-1,bin,true,,90771,416,3,3,https://www.demoblaze.com/imgs/sony_vaio_5.jpg,230,0,0
+1728905909625,1501,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,200,OK,Thread Group 1-1,text,true,,542942,362,3,3,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,148,0,0
+1728905911149,8,Debug Sampler,200,OK,Thread Group 1-1,text,true,,358,0,3,3,null,0,0,0
+1728905896421,14812,Test,200,"Number of samples in transaction : 32, number of failing samples : 0",Thread Group 1-3,,true,,2483348,12488,3,3,null,0,59,1440
+1728905896426,1372,https://www.demoblaze.com/index.html,200,OK,Thread Group 1-3,text,true,,19902,756,3,3,https://www.demoblaze.com/index.html,1091,0,714
+1728905897800,547,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,200,OK,Thread Group 1-3,text,true,,28564,399,3,3,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,242,0,0
+1728905898349,318,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,200,OK,Thread Group 1-3,text,true,,12744,393,3,3,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,307,0,0
+1728905898669,400,https://www.demoblaze.com/css/latofonts.css,200,OK,Thread Group 1-3,text,true,,10045,367,3,3,https://www.demoblaze.com/css/latofonts.css,240,0,0
+1728905899072,313,https://www.demoblaze.com/css/latostyle.css,200,OK,Thread Group 1-3,text,true,,979,367,3,3,https://www.demoblaze.com/css/latostyle.css,312,0,0
+1728905899387,840,https://www.demoblaze.com/imgs/front.jpg,200,OK,Thread Group 1-3,bin,true,,24949,410,3,3,https://www.demoblaze.com/imgs/front.jpg,481,0,0
+1728905900229,429,https://www.demoblaze.com/Samsung1.jpg,200,OK,Thread Group 1-3,bin,true,,27679,408,3,3,https://www.demoblaze.com/Samsung1.jpg,316,0,0
+1728905900660,404,https://www.demoblaze.com/nexus1.jpg,200,OK,Thread Group 1-3,bin,true,,34140,406,3,3,https://www.demoblaze.com/nexus1.jpg,297,0,0
+1728905901066,314,https://www.demoblaze.com/iphone1.jpg,200,OK,Thread Group 1-3,bin,true,,34899,407,3,3,https://www.demoblaze.com/iphone1.jpg,242,0,0
+1728905901382,474,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,200,OK,Thread Group 1-3,text,true,,86957,373,3,3,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,251,0,0
+1728905901857,481,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,200,OK,Thread Group 1-3,text,true,,160412,374,3,3,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,251,0,0
+1728905902341,478,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,200,OK,Thread Group 1-3,text,true,,232712,399,3,3,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,305,0,0
+1728905902821,400,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,200,OK,Thread Group 1-3,text,true,,25287,376,3,3,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,369,0,0
+1728905903223,410,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,200,OK,Thread Group 1-3,text,true,,15717,382,3,3,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,408,0,0
+1728905903634,391,https://www.demoblaze.com/js/index.js,200,OK,Thread Group 1-3,text,true,,2851,346,3,3,https://www.demoblaze.com/js/index.js,391,0,0
+1728905904026,525,https://www.demoblaze.com/bm.png,200,OK,Thread Group 1-3,bin,true,,4263,402,3,3,https://www.demoblaze.com/bm.png,525,0,0
+1728905904553,436,https://www.demoblaze.com/css/fonts/Lato-Regular.woff2,200,OK,Thread Group 1-3,text,true,,183009,363,3,3,https://www.demoblaze.com/css/fonts/Lato-Regular.woff2,374,0,0
+1728905904991,269,https://www.demoblaze.com/bm.png,304,Not Modified,Thread Group 1-3,,true,,165,427,3,3,https://www.demoblaze.com/bm.png,0,0,0
+1728905905261,290,https://www.demoblaze.com/config.json,200,OK,Thread Group 1-3,text,true,,489,423,3,3,https://www.demoblaze.com/config.json,280,0,0
+1728905905554,679,https://api.demoblaze.com/entries,200,OK,Thread Group 1-3,text,true,,2931,342,3,3,https://api.demoblaze.com/entries,679,0,371
+1728905906235,513,https://hls.demoblaze.com/index.m3u8,200,OK,Thread Group 1-3,text,true,,1255,345,3,3,https://hls.demoblaze.com/index.m3u8,513,0,355
+1728905906749,303,https://www.demoblaze.com/favicon.ico,200,OK,Thread Group 1-3,bin,true,,5483,407,3,3,https://www.demoblaze.com/favicon.ico,292,0,0
+1728905907053,151,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,200,OK,Thread Group 1-3,text,true,,6057,359,3,3,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,150,0,0
+1728905907205,300,https://www.demoblaze.com/imgs/galaxy_s6.jpg,200,OK,Thread Group 1-3,bin,true,,107733,414,3,3,https://www.demoblaze.com/imgs/galaxy_s6.jpg,249,0,0
+1728905907507,355,https://www.demoblaze.com/imgs/Lumia_1520.jpg,200,OK,Thread Group 1-3,bin,true,,145514,415,3,3,https://www.demoblaze.com/imgs/Lumia_1520.jpg,250,0,0
+1728905907863,435,https://www.demoblaze.com/imgs/Nexus_6.jpg,200,OK,Thread Group 1-3,bin,true,,232097,412,3,3,https://www.demoblaze.com/imgs/Nexus_6.jpg,320,0,0
+1728905908299,422,https://www.demoblaze.com/imgs/iphone_6.jpg,200,OK,Thread Group 1-3,bin,true,,201243,413,3,3,https://www.demoblaze.com/imgs/iphone_6.jpg,299,0,0
+1728905908722,470,https://www.demoblaze.com/imgs/xperia_z5.jpg,200,OK,Thread Group 1-3,bin,true,,143968,414,3,3,https://www.demoblaze.com/imgs/xperia_z5.jpg,325,0,0
+1728905909194,279,https://www.demoblaze.com/imgs/HTC_M9.jpg,200,OK,Thread Group 1-3,bin,true,,97234,411,3,3,https://www.demoblaze.com/imgs/HTC_M9.jpg,245,0,0
+1728905909475,295,https://www.demoblaze.com/imgs/sony_vaio_5.jpg,200,OK,Thread Group 1-3,bin,true,,90771,416,3,3,https://www.demoblaze.com/imgs/sony_vaio_5.jpg,276,0,0
+1728905909771,1518,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,200,OK,Thread Group 1-3,text,true,,542942,362,3,3,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,193,0,0
+1728905911291,1,Debug Sampler,200,OK,Thread Group 1-3,text,true,,357,0,3,3,null,0,0,0
+1728905911197,360,Login,200,OK,Thread Group 1-1,text,true,,248,448,3,3,https://api.demoblaze.com/login,360,0,0
+1728905911568,1,Debug Sampler,200,OK,Thread Group 1-1,text,true,,524,0,3,3,null,0,0,0
+1728905911297,344,Login,200,OK,Thread Group 1-3,text,true,,248,448,3,3,https://api.demoblaze.com/login,344,0,0
+1728905911641,0,Debug Sampler,200,OK,Thread Group 1-3,text,true,,524,0,3,3,null,0,0,0
+1728905895433,16209,Test,200,"Number of samples in transaction : 32, number of failing samples : 0",Thread Group 1-2,,true,,2240363,12488,3,3,null,0,73,1943
+1728905895436,1532,https://www.demoblaze.com/index.html,200,OK,Thread Group 1-2,text,true,,5046,756,3,3,https://www.demoblaze.com/index.html,1512,0,1073
+1728905896985,1048,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,200,OK,Thread Group 1-2,text,true,,28638,399,3,3,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,427,0,0
+1728905898036,504,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,200,OK,Thread Group 1-2,text,true,,12562,393,3,3,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,498,0,0
+1728905898542,526,https://www.demoblaze.com/css/latofonts.css,200,OK,Thread Group 1-2,text,true,,1188,367,3,3,https://www.demoblaze.com/css/latofonts.css,525,0,0
+1728905899071,394,https://www.demoblaze.com/css/latostyle.css,200,OK,Thread Group 1-2,text,true,,1570,367,3,3,https://www.demoblaze.com/css/latostyle.css,313,0,0
+1728905899467,812,https://www.demoblaze.com/imgs/front.jpg,200,OK,Thread Group 1-2,bin,true,,24949,410,3,3,https://www.demoblaze.com/imgs/front.jpg,484,0,0
+1728905900281,404,https://www.demoblaze.com/Samsung1.jpg,200,OK,Thread Group 1-2,bin,true,,27679,408,3,3,https://www.demoblaze.com/Samsung1.jpg,301,0,0
+1728905900687,387,https://www.demoblaze.com/nexus1.jpg,200,OK,Thread Group 1-2,bin,true,,34140,406,3,3,https://www.demoblaze.com/nexus1.jpg,289,0,0
+1728905901076,192,https://www.demoblaze.com/iphone1.jpg,200,OK,Thread Group 1-2,bin,true,,34899,407,3,3,https://www.demoblaze.com/iphone1.jpg,96,0,0
+1728905901270,266,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,200,OK,Thread Group 1-2,text,true,,35605,373,3,3,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,213,0,0
+1728905901537,524,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,200,OK,Thread Group 1-2,text,true,,160348,374,3,3,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,281,0,0
+1728905902063,299,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,200,OK,Thread Group 1-2,text,true,,73102,399,3,3,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,238,0,0
+1728905902364,300,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,200,OK,Thread Group 1-2,text,true,,9516,376,3,3,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,291,0,0
+1728905902666,401,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,200,OK,Thread Group 1-2,text,true,,15475,382,3,3,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,385,0,0
+1728905903069,344,https://www.demoblaze.com/js/index.js,200,OK,Thread Group 1-2,text,true,,10258,346,3,3,https://www.demoblaze.com/js/index.js,343,0,0
+1728905903415,301,https://www.demoblaze.com/bm.png,200,OK,Thread Group 1-2,bin,true,,4263,402,3,3,https://www.demoblaze.com/bm.png,301,0,0
+1728905903718,885,https://www.demoblaze.com/css/fonts/Lato-Regular.woff2,200,OK,Thread Group 1-2,text,true,,183013,363,3,3,https://www.demoblaze.com/css/fonts/Lato-Regular.woff2,628,0,0
+1728905904605,230,https://www.demoblaze.com/bm.png,304,Not Modified,Thread Group 1-2,,true,,165,427,3,3,https://www.demoblaze.com/bm.png,0,0,0
+1728905904836,312,https://www.demoblaze.com/config.json,200,OK,Thread Group 1-2,text,true,,379,423,3,3,https://www.demoblaze.com/config.json,312,0,0
+1728905905151,882,https://api.demoblaze.com/entries,200,OK,Thread Group 1-2,text,true,,2931,342,3,3,https://api.demoblaze.com/entries,881,0,519
+1728905906035,485,https://hls.demoblaze.com/index.m3u8,200,OK,Thread Group 1-2,text,true,,1247,345,3,3,https://hls.demoblaze.com/index.m3u8,484,0,351
+1728905906522,274,https://www.demoblaze.com/favicon.ico,200,OK,Thread Group 1-2,bin,true,,5483,407,3,3,https://www.demoblaze.com/favicon.ico,274,0,0
+1728905906798,151,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,200,OK,Thread Group 1-2,text,true,,6050,359,3,3,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,140,0,0
+1728905906951,349,https://www.demoblaze.com/imgs/galaxy_s6.jpg,200,OK,Thread Group 1-2,bin,true,,107733,414,3,3,https://www.demoblaze.com/imgs/galaxy_s6.jpg,261,0,0
+1728905907301,416,https://www.demoblaze.com/imgs/Lumia_1520.jpg,200,OK,Thread Group 1-2,bin,true,,145514,415,3,3,https://www.demoblaze.com/imgs/Lumia_1520.jpg,252,0,0
+1728905907718,549,https://www.demoblaze.com/imgs/Nexus_6.jpg,200,OK,Thread Group 1-2,bin,true,,232097,412,3,3,https://www.demoblaze.com/imgs/Nexus_6.jpg,299,0,0
+1728905908268,481,https://www.demoblaze.com/imgs/iphone_6.jpg,200,OK,Thread Group 1-2,bin,true,,201243,413,3,3,https://www.demoblaze.com/imgs/iphone_6.jpg,271,0,0
+1728905908750,484,https://www.demoblaze.com/imgs/xperia_z5.jpg,200,OK,Thread Group 1-2,bin,true,,143968,414,3,3,https://www.demoblaze.com/imgs/xperia_z5.jpg,379,0,0
+1728905909235,277,https://www.demoblaze.com/imgs/HTC_M9.jpg,200,OK,Thread Group 1-2,bin,true,,97238,411,3,3,https://www.demoblaze.com/imgs/HTC_M9.jpg,239,0,0
+1728905909513,329,https://www.demoblaze.com/imgs/sony_vaio_5.jpg,200,OK,Thread Group 1-2,bin,true,,90771,416,3,3,https://www.demoblaze.com/imgs/sony_vaio_5.jpg,259,0,0
+1728905909843,1871,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,200,OK,Thread Group 1-2,text,true,,542935,362,3,3,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,183,0,0
+1728905911715,0,Debug Sampler,200,OK,Thread Group 1-2,text,true,,358,0,3,3,null,0,0,0
+1728905911719,593,Login,200,OK,Thread Group 1-2,text,true,,248,448,3,3,https://api.demoblaze.com/login,593,0,0
+1728905912314,0,Debug Sampler,200,OK,Thread Group 1-2,text,true,,524,0,3,3,null,0,0,0
+1728905923044,415,https://www.demoblaze.com/index.html,304,Not Modified,Thread Group 1-1,,true,,165,781,3,3,https://www.demoblaze.com/index.html,0,0,0
+1728905923461,467,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,304,Not Modified,Thread Group 1-1,,true,,165,424,3,3,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,0,0,0
+1728905923930,505,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,304,Not Modified,Thread Group 1-1,,true,,165,418,3,3,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,0,0,0
+1728905924437,316,https://www.demoblaze.com/css/latofonts.css,304,Not Modified,Thread Group 1-1,,true,,165,392,3,3,https://www.demoblaze.com/css/latofonts.css,0,0,0
+1728905924754,508,https://www.demoblaze.com/css/latostyle.css,304,Not Modified,Thread Group 1-1,,true,,165,392,3,3,https://www.demoblaze.com/css/latostyle.css,0,0,0
+1728905925262,321,https://www.demoblaze.com/imgs/front.jpg,304,Not Modified,Thread Group 1-1,,true,,165,435,3,3,https://www.demoblaze.com/imgs/front.jpg,0,0,0
+1728905925584,449,https://www.demoblaze.com/Samsung1.jpg,304,Not Modified,Thread Group 1-1,,true,,165,433,3,3,https://www.demoblaze.com/Samsung1.jpg,0,0,0
+1728905926035,350,https://www.demoblaze.com/nexus1.jpg,304,Not Modified,Thread Group 1-1,,true,,165,431,3,3,https://www.demoblaze.com/nexus1.jpg,0,0,0
+1728905926387,506,https://www.demoblaze.com/iphone1.jpg,304,Not Modified,Thread Group 1-1,,true,,165,432,3,3,https://www.demoblaze.com/iphone1.jpg,0,0,0
+1728905926895,408,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,304,Not Modified,Thread Group 1-1,,true,,165,398,3,3,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,0,0,0
+1728905927305,409,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,304,Not Modified,Thread Group 1-1,,true,,165,399,3,3,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,0,0,0
+1728905927716,405,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,304,Not Modified,Thread Group 1-1,,true,,165,424,3,3,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,0,0,0
+1728905928123,408,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,304,Not Modified,Thread Group 1-1,,true,,165,401,3,3,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,0,0,0
+1728905928533,306,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,304,Not Modified,Thread Group 1-1,,true,,165,407,3,3,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,0,0,0
+1728905928840,254,https://www.demoblaze.com/js/index.js,304,Not Modified,Thread Group 1-1,,true,,165,371,3,3,https://www.demoblaze.com/js/index.js,0,0,0
+1728905929096,181,https://www.demoblaze.com/bm.png,304,Not Modified,Thread Group 1-1,,true,,165,427,3,3,https://www.demoblaze.com/bm.png,0,0,0
+1728905929278,380,https://www.demoblaze.com/css/fonts/Lato-Regular.woff2,304,Not Modified,Thread Group 1-1,,true,,165,388,3,3,https://www.demoblaze.com/css/fonts/Lato-Regular.woff2,0,0,0
+1728905929660,398,https://www.demoblaze.com/bm.png,304,Not Modified,Thread Group 1-1,,true,,165,427,3,3,https://www.demoblaze.com/bm.png,0,0,0
+1728905930060,359,https://www.demoblaze.com/config.json,304,Not Modified,Thread Group 1-1,,true,,165,448,3,3,https://www.demoblaze.com/config.json,0,0,0
+1728905930421,367,https://www.demoblaze.com/favicon.ico,304,Not Modified,Thread Group 1-1,,true,,165,432,3,3,https://www.demoblaze.com/favicon.ico,0,0,0
+1728905930790,334,Check,200,OK,Thread Group 1-1,text,true,,298,431,3,3,https://api.demoblaze.com/check,334,0,0
+1728905931125,1,Debug Sampler,200,OK,Thread Group 1-1,text,true,,524,0,3,3,null,0,0,0
+1728905931127,504,Entries,200,OK,Thread Group 1-1,text,true,,2931,342,3,3,https://api.demoblaze.com/entries,504,0,0
+1728905931386,401,https://www.demoblaze.com/index.html,304,Not Modified,Thread Group 1-3,,true,,165,781,3,3,https://www.demoblaze.com/index.html,0,0,0
+1728905931789,296,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,304,Not Modified,Thread Group 1-3,,true,,165,424,3,3,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,0,0,0
+1728905932087,298,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,304,Not Modified,Thread Group 1-3,,true,,165,418,3,3,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,0,0,0
+1728905932386,401,https://www.demoblaze.com/css/latofonts.css,304,Not Modified,Thread Group 1-3,,true,,165,392,3,3,https://www.demoblaze.com/css/latofonts.css,0,0,0
+1728905932788,279,https://www.demoblaze.com/css/latostyle.css,304,Not Modified,Thread Group 1-3,,true,,165,392,3,3,https://www.demoblaze.com/css/latostyle.css,0,0,0
+1728905933069,426,https://www.demoblaze.com/imgs/front.jpg,304,Not Modified,Thread Group 1-3,,true,,165,435,3,3,https://www.demoblaze.com/imgs/front.jpg,0,0,0
+1728905933497,288,https://www.demoblaze.com/Samsung1.jpg,304,Not Modified,Thread Group 1-3,,true,,165,433,3,3,https://www.demoblaze.com/Samsung1.jpg,0,0,0
+1728905933786,340,https://www.demoblaze.com/nexus1.jpg,304,Not Modified,Thread Group 1-3,,true,,165,431,3,3,https://www.demoblaze.com/nexus1.jpg,0,0,0
+1728905934128,595,https://www.demoblaze.com/iphone1.jpg,304,Not Modified,Thread Group 1-3,,true,,165,432,3,3,https://www.demoblaze.com/iphone1.jpg,0,0,0
+1728905934724,285,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,304,Not Modified,Thread Group 1-3,,true,,165,398,3,3,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,0,0,0
+1728905935010,309,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,304,Not Modified,Thread Group 1-3,,true,,165,399,3,3,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,0,0,0
+1728905935321,583,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,304,Not Modified,Thread Group 1-3,,true,,165,424,3,3,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,0,0,0
+1728905935906,453,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,304,Not Modified,Thread Group 1-3,,true,,165,401,3,3,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,0,0,0
+1728905936361,374,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,304,Not Modified,Thread Group 1-3,,true,,165,407,3,3,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,0,0,0
+1728905936598,333,https://www.demoblaze.com/index.html,304,Not Modified,Thread Group 1-2,,true,,165,781,3,3,https://www.demoblaze.com/index.html,0,0,0
+1728905936737,505,https://www.demoblaze.com/js/index.js,304,Not Modified,Thread Group 1-3,,true,,165,371,3,3,https://www.demoblaze.com/js/index.js,0,0,0
+1728905936932,319,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,304,Not Modified,Thread Group 1-2,,true,,165,424,3,3,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,0,0,0
+1728905937243,439,https://www.demoblaze.com/bm.png,304,Not Modified,Thread Group 1-3,,true,,165,427,3,3,https://www.demoblaze.com/bm.png,0,0,0
+1728905937252,430,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,304,Not Modified,Thread Group 1-2,,true,,165,418,3,3,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,0,0,0
+1728905937684,288,https://www.demoblaze.com/css/fonts/Lato-Regular.woff2,304,Not Modified,Thread Group 1-3,,true,,165,388,3,3,https://www.demoblaze.com/css/fonts/Lato-Regular.woff2,0,0,0
+1728905937684,288,https://www.demoblaze.com/css/latofonts.css,304,Not Modified,Thread Group 1-2,,true,,165,392,3,3,https://www.demoblaze.com/css/latofonts.css,0,0,0
+1728905937974,197,https://www.demoblaze.com/bm.png,304,Not Modified,Thread Group 1-3,,true,,165,427,3,3,https://www.demoblaze.com/bm.png,0,0,0
+1728905937974,207,https://www.demoblaze.com/css/latostyle.css,304,Not Modified,Thread Group 1-2,,true,,165,392,3,3,https://www.demoblaze.com/css/latostyle.css,0,0,0
+1728905938172,336,https://www.demoblaze.com/config.json,304,Not Modified,Thread Group 1-3,,true,,165,448,3,3,https://www.demoblaze.com/config.json,0,0,0
+1728905938183,589,https://www.demoblaze.com/imgs/front.jpg,304,Not Modified,Thread Group 1-2,,true,,165,435,3,3,https://www.demoblaze.com/imgs/front.jpg,0,0,0
+1728905938510,262,https://www.demoblaze.com/favicon.ico,304,Not Modified,Thread Group 1-3,,true,,165,432,3,3,https://www.demoblaze.com/favicon.ico,0,0,0
+1728905938773,579,Check,200,OK,Thread Group 1-3,text,true,,298,431,3,3,https://api.demoblaze.com/check,579,0,0
+1728905938773,579,https://www.demoblaze.com/Samsung1.jpg,304,Not Modified,Thread Group 1-2,,true,,165,433,3,3,https://www.demoblaze.com/Samsung1.jpg,0,0,0
+1728905939353,0,Debug Sampler,200,OK,Thread Group 1-3,text,true,,524,0,3,3,null,0,0,0
+1728905939354,447,Entries,200,OK,Thread Group 1-3,text,true,,2931,342,3,3,https://api.demoblaze.com/entries,447,0,0
+1728905939353,448,https://www.demoblaze.com/nexus1.jpg,304,Not Modified,Thread Group 1-2,,true,,165,431,3,3,https://www.demoblaze.com/nexus1.jpg,0,0,0
+1728905939802,608,https://www.demoblaze.com/iphone1.jpg,304,Not Modified,Thread Group 1-2,,true,,165,432,3,3,https://www.demoblaze.com/iphone1.jpg,0,0,0
+1728905940416,523,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,304,Not Modified,Thread Group 1-2,,true,,165,398,3,3,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,0,0,0
+1728905940941,304,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,304,Not Modified,Thread Group 1-2,,true,,165,399,3,3,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,0,0,0
+1728905941247,422,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,304,Not Modified,Thread Group 1-2,,true,,165,424,3,3,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,0,0,0
+1728905941671,386,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,304,Not Modified,Thread Group 1-2,,true,,165,401,3,3,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,0,0,0
+1728905942060,512,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,304,Not Modified,Thread Group 1-2,,true,,165,407,3,3,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,0,0,0
+1728905942574,401,https://www.demoblaze.com/js/index.js,304,Not Modified,Thread Group 1-2,,true,,165,371,3,3,https://www.demoblaze.com/js/index.js,0,0,0
+1728905942977,126,https://www.demoblaze.com/bm.png,304,Not Modified,Thread Group 1-2,,true,,165,427,3,3,https://www.demoblaze.com/bm.png,0,0,0
+1728905943105,414,https://www.demoblaze.com/css/fonts/Lato-Regular.woff2,304,Not Modified,Thread Group 1-2,,true,,165,388,3,3,https://www.demoblaze.com/css/fonts/Lato-Regular.woff2,0,0,0
+1728905943520,128,https://www.demoblaze.com/bm.png,304,Not Modified,Thread Group 1-2,,true,,165,427,3,3,https://www.demoblaze.com/bm.png,0,0,0
+1728905943650,451,https://www.demoblaze.com/config.json,304,Not Modified,Thread Group 1-2,,true,,165,448,3,3,https://www.demoblaze.com/config.json,0,0,0
+1728905944103,221,https://www.demoblaze.com/favicon.ico,304,Not Modified,Thread Group 1-2,,true,,165,432,3,3,https://www.demoblaze.com/favicon.ico,0,0,0
+1728905944325,242,Check,200,OK,Thread Group 1-2,text,true,,298,431,3,3,https://api.demoblaze.com/check,241,0,0
+1728905944567,1,Debug Sampler,200,OK,Thread Group 1-2,text,true,,524,0,3,3,null,0,0,0
+1728905944569,281,Entries,200,OK,Thread Group 1-2,text,true,,2931,342,3,3,https://api.demoblaze.com/entries,281,0,0
+1728905931632,26186,Transaction Controller Add Product,200,"Number of samples in transaction : 99, number of failing samples : 0",Thread Group 1-1,,true,,32288,42532,3,3,null,0,23968,1129
+1728905931633,164,https://hls.demoblaze.com/index.m3u8,304,Not Modified,Thread Group 1-1,,true,,267,446,3,3,https://hls.demoblaze.com/index.m3u8,0,0,0
+1728905931799,218,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,304,Not Modified,Thread Group 1-1,,true,,266,460,3,3,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,0,0,0
+1728905932019,366,https://www.demoblaze.com/imgs/galaxy_s6.jpg,304,Not Modified,Thread Group 1-1,,true,,165,439,3,3,https://www.demoblaze.com/imgs/galaxy_s6.jpg,0,0,0
+1728905932386,400,https://www.demoblaze.com/imgs/Lumia_1520.jpg,304,Not Modified,Thread Group 1-1,,true,,165,440,3,3,https://www.demoblaze.com/imgs/Lumia_1520.jpg,0,0,0
+1728905932788,279,https://www.demoblaze.com/imgs/Nexus_6.jpg,304,Not Modified,Thread Group 1-1,,true,,165,437,3,3,https://www.demoblaze.com/imgs/Nexus_6.jpg,0,0,0
+1728905933069,426,https://www.demoblaze.com/imgs/iphone_6.jpg,304,Not Modified,Thread Group 1-1,,true,,165,438,3,3,https://www.demoblaze.com/imgs/iphone_6.jpg,0,0,0
+1728905933497,568,https://www.demoblaze.com/imgs/xperia_z5.jpg,304,Not Modified,Thread Group 1-1,,true,,165,439,3,3,https://www.demoblaze.com/imgs/xperia_z5.jpg,0,0,0
+1728905934066,657,https://www.demoblaze.com/imgs/HTC_M9.jpg,304,Not Modified,Thread Group 1-1,,true,,165,436,3,3,https://www.demoblaze.com/imgs/HTC_M9.jpg,0,0,0
+1728905934724,285,https://www.demoblaze.com/imgs/sony_vaio_5.jpg,304,Not Modified,Thread Group 1-1,,true,,165,441,3,3,https://www.demoblaze.com/imgs/sony_vaio_5.jpg,0,0,0
+1728905935011,308,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,304,Not Modified,Thread Group 1-1,,true,,266,463,3,3,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,0,0,0
+1728905940147,792,https://www.demoblaze.com/prod.html?idp_=2,200,OK,Thread Group 1-1,text,true,,5585,762,3,3,https://www.demoblaze.com/prod.html?idp_=2,791,0,0
+1728905940941,115,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,304,Not Modified,Thread Group 1-1,,true,,165,424,3,3,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,0,0,0
+1728905941057,302,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,304,Not Modified,Thread Group 1-1,,true,,165,418,3,3,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,0,0,0
+1728905941361,418,https://www.demoblaze.com/css/latofonts.css,304,Not Modified,Thread Group 1-1,,true,,165,392,3,3,https://www.demoblaze.com/css/latofonts.css,0,0,0
+1728905941780,277,https://www.demoblaze.com/css/latostyle.css,304,Not Modified,Thread Group 1-1,,true,,165,392,3,3,https://www.demoblaze.com/css/latostyle.css,0,0,0
+1728905942060,512,https://www.demoblaze.com/imgs/front.jpg,304,Not Modified,Thread Group 1-1,,true,,165,435,3,3,https://www.demoblaze.com/imgs/front.jpg,0,0,0
+1728905942574,401,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,304,Not Modified,Thread Group 1-1,,true,,165,398,3,3,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,0,0,0
+1728905942977,126,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,304,Not Modified,Thread Group 1-1,,true,,165,399,3,3,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,0,0,0
+1728905943105,199,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,304,Not Modified,Thread Group 1-1,,true,,165,424,3,3,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,0,0,0
+1728905943306,342,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,304,Not Modified,Thread Group 1-1,,true,,165,401,3,3,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,0,0,0
+1728905943650,451,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,304,Not Modified,Thread Group 1-1,,true,,165,407,3,3,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,0,0,0
+1728905944103,97,https://www.demoblaze.com/bm.png,304,Not Modified,Thread Group 1-1,,true,,165,427,3,3,https://www.demoblaze.com/bm.png,0,0,0
+1728905944202,237,https://www.demoblaze.com/js/prod.js,200,OK,Thread Group 1-1,text,true,,7671,345,3,3,https://www.demoblaze.com/js/prod.js,228,0,0
+1728905944440,203,https://www.demoblaze.com/css/fonts/Lato-Regular.woff2,304,Not Modified,Thread Group 1-1,,true,,165,388,3,3,https://www.demoblaze.com/css/fonts/Lato-Regular.woff2,0,0,0
+1728905944644,206,https://www.demoblaze.com/bm.png,304,Not Modified,Thread Group 1-1,,true,,165,427,3,3,https://www.demoblaze.com/bm.png,0,0,0
+1728905944851,92,https://www.demoblaze.com/config.json,304,Not Modified,Thread Group 1-1,,true,,165,448,3,3,https://www.demoblaze.com/config.json,0,0,0
+1728905944944,209,https://www.demoblaze.com/favicon.ico,304,Not Modified,Thread Group 1-1,,true,,165,432,3,3,https://www.demoblaze.com/favicon.ico,0,0,0
+1728905945154,238,Check,200,OK,Thread Group 1-1,text,true,,298,425,3,3,https://api.demoblaze.com/check,238,0,0
+1728905945393,249,View,200,OK,Thread Group 1-1,text,true,,432,402,3,3,https://api.demoblaze.com/view,249,0,0
+1728905945643,81,https://hls.demoblaze.com/index.m3u8,304,Not Modified,Thread Group 1-1,,true,,267,396,3,3,https://hls.demoblaze.com/index.m3u8,0,0,0
+1728905945726,87,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,304,Not Modified,Thread Group 1-1,,true,,266,410,3,3,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,0,0,0
+1728905945814,94,https://www.demoblaze.com/imgs/Lumia_1520.jpg,304,Not Modified,Thread Group 1-1,,true,,165,440,3,3,https://www.demoblaze.com/imgs/Lumia_1520.jpg,0,0,0
+1728905945909,81,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,304,Not Modified,Thread Group 1-1,,true,,266,413,3,3,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,0,0,0
+1728905945992,80,https://hls.demoblaze.com/index.m3u8,304,Not Modified,Thread Group 1-1,,true,,267,396,3,3,https://hls.demoblaze.com/index.m3u8,0,0,0
+1728905946073,94,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,304,Not Modified,Thread Group 1-1,,true,,266,410,3,3,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,0,0,0
+1728905946168,306,https://www.demoblaze.com/imgs/galaxy_s6.jpg,304,Not Modified,Thread Group 1-1,,true,,165,439,3,3,https://www.demoblaze.com/imgs/galaxy_s6.jpg,0,0,0
+1728905946475,244,https://www.demoblaze.com/imgs/Lumia_1520.jpg,304,Not Modified,Thread Group 1-1,,true,,165,440,3,3,https://www.demoblaze.com/imgs/Lumia_1520.jpg,0,0,0
+1728905946720,249,https://www.demoblaze.com/imgs/Nexus_6.jpg,304,Not Modified,Thread Group 1-1,,true,,165,437,3,3,https://www.demoblaze.com/imgs/Nexus_6.jpg,0,0,0
+1728905946971,260,https://www.demoblaze.com/imgs/iphone_6.jpg,304,Not Modified,Thread Group 1-1,,true,,165,438,3,3,https://www.demoblaze.com/imgs/iphone_6.jpg,0,0,0
+1728905947232,251,https://www.demoblaze.com/imgs/xperia_z5.jpg,304,Not Modified,Thread Group 1-1,,true,,165,439,3,3,https://www.demoblaze.com/imgs/xperia_z5.jpg,0,0,0
+1728905947484,222,https://www.demoblaze.com/imgs/HTC_M9.jpg,304,Not Modified,Thread Group 1-1,,true,,165,436,3,3,https://www.demoblaze.com/imgs/HTC_M9.jpg,0,0,0
+1728905947707,419,https://www.demoblaze.com/imgs/sony_vaio_5.jpg,304,Not Modified,Thread Group 1-1,,true,,165,441,3,3,https://www.demoblaze.com/imgs/sony_vaio_5.jpg,0,0,0
+1728905948127,208,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,304,Not Modified,Thread Group 1-1,,true,,266,413,3,3,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,0,0,0
+1728905958239,479,https://www.demoblaze.com/prod.html?idp_=2,304,Not Modified,Thread Group 1-1,,true,,165,787,3,3,https://www.demoblaze.com/prod.html?idp_=2,0,0,264
+1728905958719,209,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,304,Not Modified,Thread Group 1-1,,true,,165,424,3,3,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,0,0,0
+1728905958929,210,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,304,Not Modified,Thread Group 1-1,,true,,165,418,3,3,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,0,0,0
+1728905959140,203,https://www.demoblaze.com/css/latofonts.css,304,Not Modified,Thread Group 1-1,,true,,165,392,3,3,https://www.demoblaze.com/css/latofonts.css,0,0,0
+1728905959344,224,https://www.demoblaze.com/css/latostyle.css,304,Not Modified,Thread Group 1-1,,true,,165,392,3,3,https://www.demoblaze.com/css/latostyle.css,0,0,0
+1728905959569,223,https://www.demoblaze.com/imgs/front.jpg,304,Not Modified,Thread Group 1-1,,true,,165,435,3,3,https://www.demoblaze.com/imgs/front.jpg,0,0,0
+1728905959792,91,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,304,Not Modified,Thread Group 1-1,,true,,165,398,3,3,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,0,0,0
+1728905959884,222,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,304,Not Modified,Thread Group 1-1,,true,,165,399,3,3,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,0,0,0
+1728905960107,305,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,304,Not Modified,Thread Group 1-1,,true,,165,424,3,3,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,0,0,0
+1728905960413,271,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,304,Not Modified,Thread Group 1-1,,true,,165,401,3,3,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,0,0,0
+1728905960686,311,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,304,Not Modified,Thread Group 1-1,,true,,165,407,3,3,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,0,0,0
+1728905960998,301,https://www.demoblaze.com/bm.png,304,Not Modified,Thread Group 1-1,,true,,165,427,3,3,https://www.demoblaze.com/bm.png,0,0,0
+1728905961301,314,https://www.demoblaze.com/js/prod.js,304,Not Modified,Thread Group 1-1,,true,,165,370,3,3,https://www.demoblaze.com/js/prod.js,0,0,0
+1728905961616,208,https://www.demoblaze.com/css/fonts/Lato-Regular.woff2,304,Not Modified,Thread Group 1-1,,true,,165,388,3,3,https://www.demoblaze.com/css/fonts/Lato-Regular.woff2,0,0,0
+1728905961825,201,https://www.demoblaze.com/bm.png,304,Not Modified,Thread Group 1-1,,true,,165,427,3,3,https://www.demoblaze.com/bm.png,0,0,0
+1728905962028,216,https://www.demoblaze.com/config.json,304,Not Modified,Thread Group 1-1,,true,,165,448,3,3,https://www.demoblaze.com/config.json,0,0,0
+1728905962245,90,https://www.demoblaze.com/favicon.ico,304,Not Modified,Thread Group 1-1,,true,,165,432,3,3,https://www.demoblaze.com/favicon.ico,0,0,0
+1728905962336,235,Check,200,OK,Thread Group 1-1,text,true,,298,425,3,3,https://api.demoblaze.com/check,234,0,0
+1728905962571,253,View,200,OK,Thread Group 1-1,text,true,,432,402,3,3,https://api.demoblaze.com/view,253,0,0
+1728905962825,82,https://hls.demoblaze.com/index.m3u8,304,Not Modified,Thread Group 1-1,,true,,267,396,3,3,https://hls.demoblaze.com/index.m3u8,0,0,0
+1728905962908,87,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,304,Not Modified,Thread Group 1-1,,true,,266,410,3,3,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,0,0,0
+1728905962996,211,https://www.demoblaze.com/imgs/Lumia_1520.jpg,304,Not Modified,Thread Group 1-1,,true,,165,440,3,3,https://www.demoblaze.com/imgs/Lumia_1520.jpg,0,0,0
+1728905963208,83,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,304,Not Modified,Thread Group 1-1,,true,,266,413,3,3,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,0,0,0
+1728905963292,87,https://hls.demoblaze.com/index.m3u8,304,Not Modified,Thread Group 1-1,,true,,267,396,3,3,https://hls.demoblaze.com/index.m3u8,0,0,0
+1728905963381,89,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,304,Not Modified,Thread Group 1-1,,true,,266,410,3,3,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,0,0,0
+1728905963471,206,https://www.demoblaze.com/imgs/galaxy_s6.jpg,304,Not Modified,Thread Group 1-1,,true,,165,439,3,3,https://www.demoblaze.com/imgs/galaxy_s6.jpg,0,0,0
+1728905963678,101,https://www.demoblaze.com/imgs/Lumia_1520.jpg,304,Not Modified,Thread Group 1-1,,true,,165,440,3,3,https://www.demoblaze.com/imgs/Lumia_1520.jpg,0,0,0
+1728905963779,213,https://www.demoblaze.com/imgs/Nexus_6.jpg,304,Not Modified,Thread Group 1-1,,true,,165,437,3,3,https://www.demoblaze.com/imgs/Nexus_6.jpg,0,0,0
+1728905963993,212,https://www.demoblaze.com/imgs/iphone_6.jpg,304,Not Modified,Thread Group 1-1,,true,,165,438,3,3,https://www.demoblaze.com/imgs/iphone_6.jpg,0,0,0
+1728905964206,187,https://www.demoblaze.com/imgs/xperia_z5.jpg,304,Not Modified,Thread Group 1-1,,true,,165,439,3,3,https://www.demoblaze.com/imgs/xperia_z5.jpg,0,0,0
+1728905964394,284,https://www.demoblaze.com/imgs/HTC_M9.jpg,304,Not Modified,Thread Group 1-1,,true,,165,436,3,3,https://www.demoblaze.com/imgs/HTC_M9.jpg,0,0,0
+1728905964680,413,https://www.demoblaze.com/imgs/sony_vaio_5.jpg,304,Not Modified,Thread Group 1-1,,true,,165,441,3,3,https://www.demoblaze.com/imgs/sony_vaio_5.jpg,0,0,0
+1728905965094,207,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,304,Not Modified,Thread Group 1-1,,true,,266,413,3,3,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,0,0,0
+1728905974416,405,https://www.demoblaze.com/prod.html?idp_=2,304,Not Modified,Thread Group 1-1,,true,,165,787,3,3,https://www.demoblaze.com/prod.html?idp_=2,0,0,0
+1728905974822,223,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,304,Not Modified,Thread Group 1-1,,true,,165,424,3,3,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,0,0,0
+1728905975046,281,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,304,Not Modified,Thread Group 1-1,,true,,165,418,3,3,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,0,0,0
+1728905975329,248,https://www.demoblaze.com/css/latofonts.css,304,Not Modified,Thread Group 1-1,,true,,165,392,3,3,https://www.demoblaze.com/css/latofonts.css,0,0,0
+1728905975578,372,https://www.demoblaze.com/css/latostyle.css,304,Not Modified,Thread Group 1-1,,true,,165,392,3,3,https://www.demoblaze.com/css/latostyle.css,0,0,0
+1728905975951,302,https://www.demoblaze.com/imgs/front.jpg,304,Not Modified,Thread Group 1-1,,true,,165,435,3,3,https://www.demoblaze.com/imgs/front.jpg,0,0,0
+1728905976255,320,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,304,Not Modified,Thread Group 1-1,,true,,165,398,3,3,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,0,0,0
+1728905976576,332,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,304,Not Modified,Thread Group 1-1,,true,,165,399,3,3,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,0,0,0
+1728905976909,220,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,304,Not Modified,Thread Group 1-1,,true,,165,424,3,3,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,0,0,0
+1728905977130,553,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,304,Not Modified,Thread Group 1-1,,true,,165,401,3,3,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,0,0,0
+1728905977684,147,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,304,Not Modified,Thread Group 1-1,,true,,165,407,3,3,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,0,0,0
+1728905977832,278,https://www.demoblaze.com/bm.png,304,Not Modified,Thread Group 1-1,,true,,165,427,3,3,https://www.demoblaze.com/bm.png,0,0,0
+1728905978111,294,https://www.demoblaze.com/js/prod.js,304,Not Modified,Thread Group 1-1,,true,,165,370,3,3,https://www.demoblaze.com/js/prod.js,0,0,0
+1728905978406,237,https://www.demoblaze.com/css/fonts/Lato-Regular.woff2,304,Not Modified,Thread Group 1-1,,true,,165,388,3,3,https://www.demoblaze.com/css/fonts/Lato-Regular.woff2,0,0,0
+1728905978644,171,https://www.demoblaze.com/bm.png,304,Not Modified,Thread Group 1-1,,true,,165,427,3,3,https://www.demoblaze.com/bm.png,0,0,0
+1728905978816,219,https://www.demoblaze.com/config.json,304,Not Modified,Thread Group 1-1,,true,,165,448,3,3,https://www.demoblaze.com/config.json,0,0,0
+1728905979036,221,https://www.demoblaze.com/favicon.ico,304,Not Modified,Thread Group 1-1,,true,,165,432,3,3,https://www.demoblaze.com/favicon.ico,0,0,0
+1728905979258,686,Check,200,OK,Thread Group 1-1,text,true,,298,425,3,3,https://api.demoblaze.com/check,686,0,394
+1728905979945,253,View,200,OK,Thread Group 1-1,text,true,,436,402,3,3,https://api.demoblaze.com/view,253,0,0
+1728905980199,704,https://hls.demoblaze.com/index.m3u8,304,Not Modified,Thread Group 1-1,,true,,266,396,3,3,https://hls.demoblaze.com/index.m3u8,0,0,471
+1728905980904,165,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,304,Not Modified,Thread Group 1-1,,true,,266,410,3,3,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,0,0,0
+1728905981070,304,https://www.demoblaze.com/imgs/Lumia_1520.jpg,304,Not Modified,Thread Group 1-1,,true,,165,440,3,3,https://www.demoblaze.com/imgs/Lumia_1520.jpg,0,0,0
+1728905981375,410,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,304,Not Modified,Thread Group 1-1,,true,,266,413,3,3,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,0,0,0
+1728905939802,28816,Transaction Controller Add Product,200,"Number of samples in transaction : 99, number of failing samples : 0",Thread Group 1-3,,true,,44004,42532,3,3,null,0,18379,1323
+1728905939803,607,https://hls.demoblaze.com/index.m3u8,304,Not Modified,Thread Group 1-3,,true,,267,446,3,3,https://hls.demoblaze.com/index.m3u8,0,0,0
+1728905940412,527,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,304,Not Modified,Thread Group 1-3,,true,,266,460,3,3,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,0,0,0
+1728905940941,304,https://www.demoblaze.com/imgs/galaxy_s6.jpg,304,Not Modified,Thread Group 1-3,,true,,165,439,3,3,https://www.demoblaze.com/imgs/galaxy_s6.jpg,0,0,0
+1728905941247,116,https://www.demoblaze.com/imgs/Lumia_1520.jpg,304,Not Modified,Thread Group 1-3,,true,,165,440,3,3,https://www.demoblaze.com/imgs/Lumia_1520.jpg,0,0,0
+1728905941364,415,https://www.demoblaze.com/imgs/Nexus_6.jpg,304,Not Modified,Thread Group 1-3,,true,,165,437,3,3,https://www.demoblaze.com/imgs/Nexus_6.jpg,0,0,0
+1728905941780,277,https://www.demoblaze.com/imgs/iphone_6.jpg,304,Not Modified,Thread Group 1-3,,true,,165,438,3,3,https://www.demoblaze.com/imgs/iphone_6.jpg,0,0,0
+1728905942060,380,https://www.demoblaze.com/imgs/xperia_z5.jpg,304,Not Modified,Thread Group 1-3,,true,,165,439,3,3,https://www.demoblaze.com/imgs/xperia_z5.jpg,0,0,0
+1728905942442,370,https://www.demoblaze.com/imgs/HTC_M9.jpg,304,Not Modified,Thread Group 1-3,,true,,165,436,3,3,https://www.demoblaze.com/imgs/HTC_M9.jpg,0,0,0
+1728905942814,289,https://www.demoblaze.com/imgs/sony_vaio_5.jpg,304,Not Modified,Thread Group 1-3,,true,,165,441,3,3,https://www.demoblaze.com/imgs/sony_vaio_5.jpg,0,0,0
+1728905943105,199,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,304,Not Modified,Thread Group 1-3,,true,,266,463,3,3,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,0,0,0
+1728905948121,266,https://www.demoblaze.com/prod.html?idp_=2,200,OK,Thread Group 1-3,text,true,,22049,762,3,3,https://www.demoblaze.com/prod.html?idp_=2,214,0,0
+1728905948388,258,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,304,Not Modified,Thread Group 1-3,,true,,165,424,3,3,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,0,0,0
+1728905948647,306,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,304,Not Modified,Thread Group 1-3,,true,,165,418,3,3,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,0,0,0
+1728905948955,268,https://www.demoblaze.com/css/latofonts.css,304,Not Modified,Thread Group 1-3,,true,,165,392,3,3,https://www.demoblaze.com/css/latofonts.css,0,0,0
+1728905949224,255,https://www.demoblaze.com/css/latostyle.css,304,Not Modified,Thread Group 1-3,,true,,165,392,3,3,https://www.demoblaze.com/css/latostyle.css,0,0,0
+1728905949480,267,https://www.demoblaze.com/imgs/front.jpg,304,Not Modified,Thread Group 1-3,,true,,165,435,3,3,https://www.demoblaze.com/imgs/front.jpg,0,0,0
+1728905949748,229,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,304,Not Modified,Thread Group 1-3,,true,,165,398,3,3,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,0,0,0
+1728905949978,364,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,304,Not Modified,Thread Group 1-3,,true,,165,399,3,3,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,0,0,0
+1728905950344,311,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,304,Not Modified,Thread Group 1-3,,true,,165,424,3,3,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,0,0,0
+1728905950656,205,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,304,Not Modified,Thread Group 1-3,,true,,165,401,3,3,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,0,0,0
+1728905950862,261,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,304,Not Modified,Thread Group 1-3,,true,,165,407,3,3,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,0,0,0
+1728905951124,148,https://www.demoblaze.com/bm.png,304,Not Modified,Thread Group 1-3,,true,,165,427,3,3,https://www.demoblaze.com/bm.png,0,0,0
+1728905951273,235,https://www.demoblaze.com/js/prod.js,200,OK,Thread Group 1-3,text,true,,2922,345,3,3,https://www.demoblaze.com/js/prod.js,234,0,0
+1728905951509,374,https://www.demoblaze.com/css/fonts/Lato-Regular.woff2,304,Not Modified,Thread Group 1-3,,true,,165,388,3,3,https://www.demoblaze.com/css/fonts/Lato-Regular.woff2,0,0,0
+1728905951884,210,https://www.demoblaze.com/bm.png,304,Not Modified,Thread Group 1-3,,true,,165,427,3,3,https://www.demoblaze.com/bm.png,0,0,0
+1728905952095,200,https://www.demoblaze.com/config.json,304,Not Modified,Thread Group 1-3,,true,,165,448,3,3,https://www.demoblaze.com/config.json,0,0,0
+1728905952296,300,https://www.demoblaze.com/favicon.ico,304,Not Modified,Thread Group 1-3,,true,,165,432,3,3,https://www.demoblaze.com/favicon.ico,0,0,0
+1728905952597,310,Check,200,OK,Thread Group 1-3,text,true,,298,425,3,3,https://api.demoblaze.com/check,310,0,0
+1728905952908,386,View,200,OK,Thread Group 1-3,text,true,,432,402,3,3,https://api.demoblaze.com/view,386,0,0
+1728905953295,129,https://hls.demoblaze.com/index.m3u8,304,Not Modified,Thread Group 1-3,,true,,267,396,3,3,https://hls.demoblaze.com/index.m3u8,0,0,0
+1728905953426,164,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,304,Not Modified,Thread Group 1-3,,true,,266,410,3,3,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,0,0,0
+1728905953591,233,https://www.demoblaze.com/imgs/Lumia_1520.jpg,304,Not Modified,Thread Group 1-3,,true,,165,440,3,3,https://www.demoblaze.com/imgs/Lumia_1520.jpg,0,0,0
+1728905953826,210,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,304,Not Modified,Thread Group 1-3,,true,,266,413,3,3,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,0,0,0
+1728905954038,235,https://hls.demoblaze.com/index.m3u8,304,Not Modified,Thread Group 1-3,,true,,267,396,3,3,https://hls.demoblaze.com/index.m3u8,0,0,0
+1728905954274,794,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,304,Not Modified,Thread Group 1-3,,true,,266,410,3,3,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,0,0,0
+1728905955069,237,https://www.demoblaze.com/imgs/galaxy_s6.jpg,304,Not Modified,Thread Group 1-3,,true,,165,439,3,3,https://www.demoblaze.com/imgs/galaxy_s6.jpg,0,0,0
+1728905955307,266,https://www.demoblaze.com/imgs/Lumia_1520.jpg,304,Not Modified,Thread Group 1-3,,true,,165,440,3,3,https://www.demoblaze.com/imgs/Lumia_1520.jpg,0,0,0
+1728905955574,247,https://www.demoblaze.com/imgs/Nexus_6.jpg,304,Not Modified,Thread Group 1-3,,true,,165,437,3,3,https://www.demoblaze.com/imgs/Nexus_6.jpg,0,0,0
+1728905955822,319,https://www.demoblaze.com/imgs/iphone_6.jpg,304,Not Modified,Thread Group 1-3,,true,,165,438,3,3,https://www.demoblaze.com/imgs/iphone_6.jpg,0,0,0
+1728905956142,287,https://www.demoblaze.com/imgs/xperia_z5.jpg,304,Not Modified,Thread Group 1-3,,true,,165,439,3,3,https://www.demoblaze.com/imgs/xperia_z5.jpg,0,0,0
+1728905956430,715,https://www.demoblaze.com/imgs/HTC_M9.jpg,304,Not Modified,Thread Group 1-3,,true,,165,436,3,3,https://www.demoblaze.com/imgs/HTC_M9.jpg,0,0,398
+1728905957146,204,https://www.demoblaze.com/imgs/sony_vaio_5.jpg,304,Not Modified,Thread Group 1-3,,true,,165,441,3,3,https://www.demoblaze.com/imgs/sony_vaio_5.jpg,0,0,0
+1728905957351,266,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,304,Not Modified,Thread Group 1-3,,true,,266,413,3,3,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,0,0,0
+1728905964156,237,https://www.demoblaze.com/prod.html?idp_=2,304,Not Modified,Thread Group 1-3,,true,,165,787,3,3,https://www.demoblaze.com/prod.html?idp_=2,0,0,0
+1728905964395,283,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,304,Not Modified,Thread Group 1-3,,true,,165,424,3,3,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,0,0,0
+1728905964680,413,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,304,Not Modified,Thread Group 1-3,,true,,165,418,3,3,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,0,0,0
+1728905965094,259,https://www.demoblaze.com/css/latofonts.css,304,Not Modified,Thread Group 1-3,,true,,165,392,3,3,https://www.demoblaze.com/css/latofonts.css,0,0,0
+1728905965354,253,https://www.demoblaze.com/css/latostyle.css,304,Not Modified,Thread Group 1-3,,true,,165,392,3,3,https://www.demoblaze.com/css/latostyle.css,0,0,0
+1728905965608,406,https://www.demoblaze.com/imgs/front.jpg,304,Not Modified,Thread Group 1-3,,true,,165,435,3,3,https://www.demoblaze.com/imgs/front.jpg,0,0,0
+1728905966015,230,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,304,Not Modified,Thread Group 1-3,,true,,165,398,3,3,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,0,0,0
+1728905966245,321,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,304,Not Modified,Thread Group 1-3,,true,,165,399,3,3,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,0,0,0
+1728905966567,408,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,304,Not Modified,Thread Group 1-3,,true,,165,424,3,3,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,0,0,0
+1728905966976,472,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,304,Not Modified,Thread Group 1-3,,true,,165,401,3,3,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,0,0,0
+1728905967449,308,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,304,Not Modified,Thread Group 1-3,,true,,165,407,3,3,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,0,0,0
+1728905967758,205,https://www.demoblaze.com/bm.png,304,Not Modified,Thread Group 1-3,,true,,165,427,3,3,https://www.demoblaze.com/bm.png,0,0,0
+1728905967964,260,https://www.demoblaze.com/js/prod.js,304,Not Modified,Thread Group 1-3,,true,,165,370,3,3,https://www.demoblaze.com/js/prod.js,0,0,0
+1728905968225,350,https://www.demoblaze.com/css/fonts/Lato-Regular.woff2,304,Not Modified,Thread Group 1-3,,true,,165,388,3,3,https://www.demoblaze.com/css/fonts/Lato-Regular.woff2,0,0,0
+1728905968576,408,https://www.demoblaze.com/bm.png,304,Not Modified,Thread Group 1-3,,true,,165,427,3,3,https://www.demoblaze.com/bm.png,0,0,0
+1728905968985,224,https://www.demoblaze.com/config.json,304,Not Modified,Thread Group 1-3,,true,,165,448,3,3,https://www.demoblaze.com/config.json,0,0,0
+1728905969210,276,https://www.demoblaze.com/favicon.ico,304,Not Modified,Thread Group 1-3,,true,,165,432,3,3,https://www.demoblaze.com/favicon.ico,0,0,0
+1728905969487,648,Check,200,OK,Thread Group 1-3,text,true,,302,425,3,3,https://api.demoblaze.com/check,648,0,329
+1728905970136,407,View,200,OK,Thread Group 1-3,text,true,,432,402,3,3,https://api.demoblaze.com/view,407,0,0
+1728905970544,799,https://hls.demoblaze.com/index.m3u8,304,Not Modified,Thread Group 1-3,,true,,267,396,3,3,https://hls.demoblaze.com/index.m3u8,0,0,596
+1728905971344,297,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,304,Not Modified,Thread Group 1-3,,true,,266,410,3,3,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,0,0,0
+1728905971642,222,https://www.demoblaze.com/imgs/Lumia_1520.jpg,304,Not Modified,Thread Group 1-3,,true,,165,440,3,3,https://www.demoblaze.com/imgs/Lumia_1520.jpg,0,0,0
+1728905971865,219,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,304,Not Modified,Thread Group 1-3,,true,,266,413,3,3,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,0,0,0
+1728905972086,446,https://hls.demoblaze.com/index.m3u8,304,Not Modified,Thread Group 1-3,,true,,267,396,3,3,https://hls.demoblaze.com/index.m3u8,0,0,0
+1728905972533,143,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,304,Not Modified,Thread Group 1-3,,true,,266,410,3,3,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,0,0,0
+1728905972677,403,https://www.demoblaze.com/imgs/galaxy_s6.jpg,304,Not Modified,Thread Group 1-3,,true,,165,439,3,3,https://www.demoblaze.com/imgs/galaxy_s6.jpg,0,0,0
+1728905973081,208,https://www.demoblaze.com/imgs/Lumia_1520.jpg,304,Not Modified,Thread Group 1-3,,true,,165,440,3,3,https://www.demoblaze.com/imgs/Lumia_1520.jpg,0,0,0
+1728905973290,301,https://www.demoblaze.com/imgs/Nexus_6.jpg,304,Not Modified,Thread Group 1-3,,true,,165,437,3,3,https://www.demoblaze.com/imgs/Nexus_6.jpg,0,0,0
+1728905973592,244,https://www.demoblaze.com/imgs/iphone_6.jpg,304,Not Modified,Thread Group 1-3,,true,,165,438,3,3,https://www.demoblaze.com/imgs/iphone_6.jpg,0,0,0
+1728905973837,426,https://www.demoblaze.com/imgs/xperia_z5.jpg,304,Not Modified,Thread Group 1-3,,true,,165,439,3,3,https://www.demoblaze.com/imgs/xperia_z5.jpg,0,0,0
+1728905974264,309,https://www.demoblaze.com/imgs/HTC_M9.jpg,304,Not Modified,Thread Group 1-3,,true,,165,436,3,3,https://www.demoblaze.com/imgs/HTC_M9.jpg,0,0,0
+1728905974574,250,https://www.demoblaze.com/imgs/sony_vaio_5.jpg,304,Not Modified,Thread Group 1-3,,true,,165,441,3,3,https://www.demoblaze.com/imgs/sony_vaio_5.jpg,0,0,0
+1728905974825,220,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,304,Not Modified,Thread Group 1-3,,true,,266,413,3,3,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,0,0,0
+1728905981958,238,https://www.demoblaze.com/prod.html?idp_=2,304,Not Modified,Thread Group 1-3,,true,,165,787,3,3,https://www.demoblaze.com/prod.html?idp_=2,0,0,0
+1728905982197,100,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,304,Not Modified,Thread Group 1-3,,true,,165,424,3,3,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,0,0,0
+1728905982298,100,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,304,Not Modified,Thread Group 1-3,,true,,165,418,3,3,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,0,0,0
+1728905982399,219,https://www.demoblaze.com/css/latofonts.css,304,Not Modified,Thread Group 1-3,,true,,165,392,3,3,https://www.demoblaze.com/css/latofonts.css,0,0,0
+1728905982619,102,https://www.demoblaze.com/css/latostyle.css,304,Not Modified,Thread Group 1-3,,true,,165,392,3,3,https://www.demoblaze.com/css/latostyle.css,0,0,0
+1728905982722,216,https://www.demoblaze.com/imgs/front.jpg,304,Not Modified,Thread Group 1-3,,true,,165,435,3,3,https://www.demoblaze.com/imgs/front.jpg,0,0,0
+1728905982939,104,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,304,Not Modified,Thread Group 1-3,,true,,165,398,3,3,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,0,0,0
+1728905983044,211,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,304,Not Modified,Thread Group 1-3,,true,,165,399,3,3,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,0,0,0
+1728905983255,109,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,304,Not Modified,Thread Group 1-3,,true,,165,424,3,3,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,0,0,0
+1728905983364,221,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,304,Not Modified,Thread Group 1-3,,true,,165,401,3,3,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,0,0,0
+1728905983586,230,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,304,Not Modified,Thread Group 1-3,,true,,165,407,3,3,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,0,0,0
+1728905983817,212,https://www.demoblaze.com/bm.png,304,Not Modified,Thread Group 1-3,,true,,165,427,3,3,https://www.demoblaze.com/bm.png,0,0,0
+1728905984030,210,https://www.demoblaze.com/js/prod.js,304,Not Modified,Thread Group 1-3,,true,,165,370,3,3,https://www.demoblaze.com/js/prod.js,0,0,0
+1728905984241,142,https://www.demoblaze.com/css/fonts/Lato-Regular.woff2,304,Not Modified,Thread Group 1-3,,true,,165,388,3,3,https://www.demoblaze.com/css/fonts/Lato-Regular.woff2,0,0,0
+1728905984384,269,https://www.demoblaze.com/bm.png,304,Not Modified,Thread Group 1-3,,true,,165,427,3,3,https://www.demoblaze.com/bm.png,0,0,0
+1728905984655,218,https://www.demoblaze.com/config.json,304,Not Modified,Thread Group 1-3,,true,,165,448,3,3,https://www.demoblaze.com/config.json,0,0,0
+1728905984874,286,https://www.demoblaze.com/favicon.ico,304,Not Modified,Thread Group 1-3,,true,,165,432,3,3,https://www.demoblaze.com/favicon.ico,0,0,0
+1728905985161,310,Check,200,OK,Thread Group 1-3,text,true,,298,425,3,3,https://api.demoblaze.com/check,310,0,0
+1728905985472,317,View,200,OK,Thread Group 1-3,text,true,,432,402,3,3,https://api.demoblaze.com/view,317,0,0
+1728905985790,296,https://hls.demoblaze.com/index.m3u8,304,Not Modified,Thread Group 1-3,,true,,267,396,3,3,https://hls.demoblaze.com/index.m3u8,0,0,0
+1728905986087,206,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,304,Not Modified,Thread Group 1-3,,true,,266,410,3,3,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,0,0,0
+1728905986294,303,https://www.demoblaze.com/imgs/Lumia_1520.jpg,304,Not Modified,Thread Group 1-3,,true,,165,440,3,3,https://www.demoblaze.com/imgs/Lumia_1520.jpg,0,0,0
+1728905986598,399,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,304,Not Modified,Thread Group 1-3,,true,,266,413,3,3,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,0,0,0
+1728905944851,24971,Transaction Controller Add Product,200,"Number of samples in transaction : 99, number of failing samples : 0",Thread Group 1-2,,true,,48817,42532,3,3,null,0,30571,1342
+1728905944852,75,https://hls.demoblaze.com/index.m3u8,304,Not Modified,Thread Group 1-2,,true,,266,446,3,3,https://hls.demoblaze.com/index.m3u8,0,0,0
+1728905944928,79,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,304,Not Modified,Thread Group 1-2,,true,,266,460,3,3,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,0,0,0
+1728905945009,260,https://www.demoblaze.com/imgs/galaxy_s6.jpg,304,Not Modified,Thread Group 1-2,,true,,165,439,3,3,https://www.demoblaze.com/imgs/galaxy_s6.jpg,0,0,0
+1728905945270,95,https://www.demoblaze.com/imgs/Lumia_1520.jpg,304,Not Modified,Thread Group 1-2,,true,,165,440,3,3,https://www.demoblaze.com/imgs/Lumia_1520.jpg,0,0,0
+1728905945366,100,https://www.demoblaze.com/imgs/Nexus_6.jpg,304,Not Modified,Thread Group 1-2,,true,,165,437,3,3,https://www.demoblaze.com/imgs/Nexus_6.jpg,0,0,0
+1728905945467,223,https://www.demoblaze.com/imgs/iphone_6.jpg,304,Not Modified,Thread Group 1-2,,true,,165,438,3,3,https://www.demoblaze.com/imgs/iphone_6.jpg,0,0,0
+1728905945691,225,https://www.demoblaze.com/imgs/xperia_z5.jpg,304,Not Modified,Thread Group 1-2,,true,,165,439,3,3,https://www.demoblaze.com/imgs/xperia_z5.jpg,0,0,0
+1728905945917,98,https://www.demoblaze.com/imgs/HTC_M9.jpg,304,Not Modified,Thread Group 1-2,,true,,165,436,3,3,https://www.demoblaze.com/imgs/HTC_M9.jpg,0,0,0
+1728905946016,104,https://www.demoblaze.com/imgs/sony_vaio_5.jpg,304,Not Modified,Thread Group 1-2,,true,,165,441,3,3,https://www.demoblaze.com/imgs/sony_vaio_5.jpg,0,0,0
+1728905946122,93,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,304,Not Modified,Thread Group 1-2,,true,,266,463,3,3,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,0,0,0
+1728905955302,272,https://www.demoblaze.com/prod.html?idp_=2,200,OK,Thread Group 1-2,text,true,,22049,762,3,3,https://www.demoblaze.com/prod.html?idp_=2,269,0,0
+1728905955575,566,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,304,Not Modified,Thread Group 1-2,,true,,165,424,3,3,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,0,0,431
+1728905956142,287,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,304,Not Modified,Thread Group 1-2,,true,,165,418,3,3,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,0,0,0
+1728905956430,204,https://www.demoblaze.com/css/latofonts.css,304,Not Modified,Thread Group 1-2,,true,,165,392,3,3,https://www.demoblaze.com/css/latofonts.css,0,0,0
+1728905956635,325,https://www.demoblaze.com/css/latostyle.css,304,Not Modified,Thread Group 1-2,,true,,165,392,3,3,https://www.demoblaze.com/css/latostyle.css,0,0,0
+1728905956961,206,https://www.demoblaze.com/imgs/front.jpg,304,Not Modified,Thread Group 1-2,,true,,165,435,3,3,https://www.demoblaze.com/imgs/front.jpg,0,0,0
+1728905957168,229,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,304,Not Modified,Thread Group 1-2,,true,,165,398,3,3,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,0,0,0
+1728905957398,223,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,304,Not Modified,Thread Group 1-2,,true,,165,399,3,3,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,0,0,0
+1728905957622,210,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,304,Not Modified,Thread Group 1-2,,true,,165,424,3,3,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,0,0,0
+1728905957833,230,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,304,Not Modified,Thread Group 1-2,,true,,165,401,3,3,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,0,0,0
+1728905958064,326,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,304,Not Modified,Thread Group 1-2,,true,,165,407,3,3,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,0,0,0
+1728905958392,223,https://www.demoblaze.com/bm.png,304,Not Modified,Thread Group 1-2,,true,,165,427,3,3,https://www.demoblaze.com/bm.png,0,0,0
+1728905958616,245,https://www.demoblaze.com/js/prod.js,200,OK,Thread Group 1-2,text,true,,7671,345,3,3,https://www.demoblaze.com/js/prod.js,209,0,0
+1728905958863,210,https://www.demoblaze.com/css/fonts/Lato-Regular.woff2,304,Not Modified,Thread Group 1-2,,true,,165,388,3,3,https://www.demoblaze.com/css/fonts/Lato-Regular.woff2,0,0,0
+1728905959074,214,https://www.demoblaze.com/bm.png,304,Not Modified,Thread Group 1-2,,true,,165,427,3,3,https://www.demoblaze.com/bm.png,0,0,0
+1728905959289,201,https://www.demoblaze.com/config.json,304,Not Modified,Thread Group 1-2,,true,,165,448,3,3,https://www.demoblaze.com/config.json,0,0,0
+1728905959491,227,https://www.demoblaze.com/favicon.ico,304,Not Modified,Thread Group 1-2,,true,,165,432,3,3,https://www.demoblaze.com/favicon.ico,0,0,0
+1728905959719,237,Check,200,OK,Thread Group 1-2,text,true,,298,425,3,3,https://api.demoblaze.com/check,237,0,0
+1728905959957,245,View,200,OK,Thread Group 1-2,text,true,,432,402,3,3,https://api.demoblaze.com/view,245,0,0
+1728905960203,209,https://hls.demoblaze.com/index.m3u8,304,Not Modified,Thread Group 1-2,,true,,266,396,3,3,https://hls.demoblaze.com/index.m3u8,0,0,0
+1728905960414,270,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,304,Not Modified,Thread Group 1-2,,true,,266,410,3,3,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,0,0,0
+1728905960686,311,https://www.demoblaze.com/imgs/Lumia_1520.jpg,304,Not Modified,Thread Group 1-2,,true,,165,440,3,3,https://www.demoblaze.com/imgs/Lumia_1520.jpg,0,0,0
+1728905960998,301,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,304,Not Modified,Thread Group 1-2,,true,,266,413,3,3,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,0,0,0
+1728905961301,129,https://hls.demoblaze.com/index.m3u8,304,Not Modified,Thread Group 1-2,,true,,266,396,3,3,https://hls.demoblaze.com/index.m3u8,0,0,0
+1728905961431,184,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,304,Not Modified,Thread Group 1-2,,true,,266,410,3,3,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,0,0,0
+1728905961616,203,https://www.demoblaze.com/imgs/galaxy_s6.jpg,304,Not Modified,Thread Group 1-2,,true,,165,439,3,3,https://www.demoblaze.com/imgs/galaxy_s6.jpg,0,0,0
+1728905961820,216,https://www.demoblaze.com/imgs/Lumia_1520.jpg,304,Not Modified,Thread Group 1-2,,true,,165,440,3,3,https://www.demoblaze.com/imgs/Lumia_1520.jpg,0,0,0
+1728905962037,230,https://www.demoblaze.com/imgs/Nexus_6.jpg,304,Not Modified,Thread Group 1-2,,true,,165,437,3,3,https://www.demoblaze.com/imgs/Nexus_6.jpg,0,0,0
+1728905962268,94,https://www.demoblaze.com/imgs/iphone_6.jpg,304,Not Modified,Thread Group 1-2,,true,,165,438,3,3,https://www.demoblaze.com/imgs/iphone_6.jpg,0,0,0
+1728905962363,214,https://www.demoblaze.com/imgs/xperia_z5.jpg,304,Not Modified,Thread Group 1-2,,true,,165,439,3,3,https://www.demoblaze.com/imgs/xperia_z5.jpg,0,0,0
+1728905962578,214,https://www.demoblaze.com/imgs/HTC_M9.jpg,304,Not Modified,Thread Group 1-2,,true,,165,436,3,3,https://www.demoblaze.com/imgs/HTC_M9.jpg,0,0,0
+1728905962793,220,https://www.demoblaze.com/imgs/sony_vaio_5.jpg,304,Not Modified,Thread Group 1-2,,true,,165,441,3,3,https://www.demoblaze.com/imgs/sony_vaio_5.jpg,0,0,0
+1728905963014,78,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,304,Not Modified,Thread Group 1-2,,true,,266,413,3,3,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,0,0,0
+1728905973646,201,https://www.demoblaze.com/prod.html?idp_=2,304,Not Modified,Thread Group 1-2,,true,,239,787,3,3,https://www.demoblaze.com/prod.html?idp_=2,0,0,0
+1728905973848,415,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,304,Not Modified,Thread Group 1-2,,true,,165,424,3,3,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,0,0,0
+1728905974264,309,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,304,Not Modified,Thread Group 1-2,,true,,165,418,3,3,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,0,0,0
+1728905974574,250,https://www.demoblaze.com/css/latofonts.css,304,Not Modified,Thread Group 1-2,,true,,165,392,3,3,https://www.demoblaze.com/css/latofonts.css,0,0,0
+1728905974825,220,https://www.demoblaze.com/css/latostyle.css,304,Not Modified,Thread Group 1-2,,true,,165,392,3,3,https://www.demoblaze.com/css/latostyle.css,0,0,0
+1728905975046,281,https://www.demoblaze.com/imgs/front.jpg,304,Not Modified,Thread Group 1-2,,true,,165,435,3,3,https://www.demoblaze.com/imgs/front.jpg,0,0,0
+1728905975329,248,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,304,Not Modified,Thread Group 1-2,,true,,165,398,3,3,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,0,0,0
+1728905975578,372,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,304,Not Modified,Thread Group 1-2,,true,,165,399,3,3,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,0,0,0
+1728905975951,302,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,304,Not Modified,Thread Group 1-2,,true,,165,424,3,3,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,0,0,0
+1728905976254,218,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,304,Not Modified,Thread Group 1-2,,true,,165,401,3,3,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,0,0,0
+1728905976473,296,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,304,Not Modified,Thread Group 1-2,,true,,165,407,3,3,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,0,0,0
+1728905976770,343,https://www.demoblaze.com/bm.png,304,Not Modified,Thread Group 1-2,,true,,165,427,3,3,https://www.demoblaze.com/bm.png,0,0,0
+1728905977114,569,https://www.demoblaze.com/js/prod.js,304,Not Modified,Thread Group 1-2,,true,,165,370,3,3,https://www.demoblaze.com/js/prod.js,0,0,0
+1728905977684,312,https://www.demoblaze.com/css/fonts/Lato-Regular.woff2,304,Not Modified,Thread Group 1-2,,true,,165,388,3,3,https://www.demoblaze.com/css/fonts/Lato-Regular.woff2,0,0,0
+1728905977998,407,https://www.demoblaze.com/bm.png,304,Not Modified,Thread Group 1-2,,true,,165,427,3,3,https://www.demoblaze.com/bm.png,0,0,0
+1728905978406,237,https://www.demoblaze.com/config.json,304,Not Modified,Thread Group 1-2,,true,,165,448,3,3,https://www.demoblaze.com/config.json,0,0,0
+1728905978644,375,https://www.demoblaze.com/favicon.ico,304,Not Modified,Thread Group 1-2,,true,,165,432,3,3,https://www.demoblaze.com/favicon.ico,0,0,0
+1728905979020,756,Check,200,OK,Thread Group 1-2,text,true,,298,425,3,3,https://api.demoblaze.com/check,756,0,427
+1728905979777,408,View,200,OK,Thread Group 1-2,text,true,,432,402,3,3,https://api.demoblaze.com/view,408,0,0
+1728905980186,717,https://hls.demoblaze.com/index.m3u8,304,Not Modified,Thread Group 1-2,,true,,266,396,3,3,https://hls.demoblaze.com/index.m3u8,0,0,484
+1728905980905,164,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,304,Not Modified,Thread Group 1-2,,true,,266,410,3,3,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,0,0,0
+1728905981070,304,https://www.demoblaze.com/imgs/Lumia_1520.jpg,304,Not Modified,Thread Group 1-2,,true,,165,440,3,3,https://www.demoblaze.com/imgs/Lumia_1520.jpg,0,0,0
+1728905981375,410,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,304,Not Modified,Thread Group 1-2,,true,,266,413,3,3,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,0,0,0
+1728905981787,124,https://hls.demoblaze.com/index.m3u8,304,Not Modified,Thread Group 1-2,,true,,266,396,3,3,https://hls.demoblaze.com/index.m3u8,0,0,0
+1728905981912,281,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,304,Not Modified,Thread Group 1-2,,true,,266,410,3,3,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,0,0,0
+1728905982194,103,https://www.demoblaze.com/imgs/galaxy_s6.jpg,304,Not Modified,Thread Group 1-2,,true,,165,439,3,3,https://www.demoblaze.com/imgs/galaxy_s6.jpg,0,0,0
+1728905982298,94,https://www.demoblaze.com/imgs/Lumia_1520.jpg,304,Not Modified,Thread Group 1-2,,true,,165,440,3,3,https://www.demoblaze.com/imgs/Lumia_1520.jpg,0,0,0
+1728905982393,95,https://www.demoblaze.com/imgs/Nexus_6.jpg,304,Not Modified,Thread Group 1-2,,true,,165,437,3,3,https://www.demoblaze.com/imgs/Nexus_6.jpg,0,0,0
+1728905982489,99,https://www.demoblaze.com/imgs/iphone_6.jpg,304,Not Modified,Thread Group 1-2,,true,,165,438,3,3,https://www.demoblaze.com/imgs/iphone_6.jpg,0,0,0
+1728905982589,213,https://www.demoblaze.com/imgs/xperia_z5.jpg,304,Not Modified,Thread Group 1-2,,true,,165,439,3,3,https://www.demoblaze.com/imgs/xperia_z5.jpg,0,0,0
+1728905982802,202,https://www.demoblaze.com/imgs/HTC_M9.jpg,304,Not Modified,Thread Group 1-2,,true,,165,436,3,3,https://www.demoblaze.com/imgs/HTC_M9.jpg,0,0,0
+1728905983005,205,https://www.demoblaze.com/imgs/sony_vaio_5.jpg,304,Not Modified,Thread Group 1-2,,true,,165,441,3,3,https://www.demoblaze.com/imgs/sony_vaio_5.jpg,0,0,0
+1728905983211,83,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,304,Not Modified,Thread Group 1-2,,true,,266,413,3,3,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,0,0,0
+1728905994114,267,https://www.demoblaze.com/prod.html?idp_=2,304,Not Modified,Thread Group 1-2,,true,,165,787,3,3,https://www.demoblaze.com/prod.html?idp_=2,0,0,0
+1728905994382,403,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,304,Not Modified,Thread Group 1-2,,true,,165,424,3,3,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,0,0,0
+1728905994786,267,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,304,Not Modified,Thread Group 1-2,,true,,165,418,3,3,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,0,0,0
+1728905995054,286,https://www.demoblaze.com/css/latofonts.css,304,Not Modified,Thread Group 1-2,,true,,165,392,3,3,https://www.demoblaze.com/css/latofonts.css,0,0,0
+1728905995341,368,https://www.demoblaze.com/css/latostyle.css,304,Not Modified,Thread Group 1-2,,true,,165,392,3,3,https://www.demoblaze.com/css/latostyle.css,0,0,0
+1728905995710,410,https://www.demoblaze.com/imgs/front.jpg,304,Not Modified,Thread Group 1-2,,true,,165,435,3,3,https://www.demoblaze.com/imgs/front.jpg,0,0,0
+1728905996121,253,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,304,Not Modified,Thread Group 1-2,,true,,165,398,3,3,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,0,0,0
+1728905996375,251,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,304,Not Modified,Thread Group 1-2,,true,,165,399,3,3,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,0,0,0
+1728905996627,307,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,304,Not Modified,Thread Group 1-2,,true,,165,424,3,3,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,0,0,0
+1728905996935,274,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,304,Not Modified,Thread Group 1-2,,true,,165,401,3,3,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,0,0,0
+1728905997211,177,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,304,Not Modified,Thread Group 1-2,,true,,165,407,3,3,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,0,0,0
+1728905997389,268,https://www.demoblaze.com/bm.png,304,Not Modified,Thread Group 1-2,,true,,165,427,3,3,https://www.demoblaze.com/bm.png,0,0,0
+1728905997658,305,https://www.demoblaze.com/js/prod.js,304,Not Modified,Thread Group 1-2,,true,,165,370,3,3,https://www.demoblaze.com/js/prod.js,0,0,0
+1728905997964,207,https://www.demoblaze.com/css/fonts/Lato-Regular.woff2,304,Not Modified,Thread Group 1-2,,true,,165,388,3,3,https://www.demoblaze.com/css/fonts/Lato-Regular.woff2,0,0,0
+1728905998173,205,https://www.demoblaze.com/bm.png,304,Not Modified,Thread Group 1-2,,true,,165,427,3,3,https://www.demoblaze.com/bm.png,0,0,0
+1728905998380,295,https://www.demoblaze.com/config.json,304,Not Modified,Thread Group 1-2,,true,,165,448,3,3,https://www.demoblaze.com/config.json,0,0,0
+1728905998676,260,https://www.demoblaze.com/favicon.ico,304,Not Modified,Thread Group 1-2,,true,,165,432,3,3,https://www.demoblaze.com/favicon.ico,0,0,0
+1728905998937,243,Check,200,OK,Thread Group 1-2,text,true,,298,425,3,3,https://api.demoblaze.com/check,243,0,0
+1728905999181,260,View,200,OK,Thread Group 1-2,text,true,,432,402,3,3,https://api.demoblaze.com/view,260,0,0
+1728905999442,257,https://hls.demoblaze.com/index.m3u8,304,Not Modified,Thread Group 1-2,,true,,266,396,3,3,https://hls.demoblaze.com/index.m3u8,0,0,0
+1728905999700,224,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,304,Not Modified,Thread Group 1-2,,true,,266,410,3,3,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,0,0,0
+1728905999925,221,https://www.demoblaze.com/imgs/Lumia_1520.jpg,304,Not Modified,Thread Group 1-2,,true,,165,440,3,3,https://www.demoblaze.com/imgs/Lumia_1520.jpg,0,0,0
+1728906000147,245,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,304,Not Modified,Thread Group 1-2,,true,,266,413,3,3,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,0,0,0
+1728906000397,47310,Transaction Controller Add To Cart,200,"Number of samples in transaction : 153, number of failing samples : 0",Thread Group 1-2,,true,,76656,63332,3,3,null,0,15327,2052
+1728906000397,261,AddToCart,200,OK,Thread Group 1-2,text,true,,197,501,3,3,https://api.demoblaze.com/addtocart,261,0,0
+1728906000659,0,Debug Sampler,200,OK,Thread Group 1-2,text,true,,553,0,3,3,null,0,0,0
+1728906000659,217,https://www.demoblaze.com/favicon.ico,304,Not Modified,Thread Group 1-2,,true,,165,432,3,3,https://www.demoblaze.com/favicon.ico,0,0,0
+1728906000877,95,https://www.demoblaze.com/config.json,304,Not Modified,Thread Group 1-2,,true,,165,448,3,3,https://www.demoblaze.com/config.json,0,0,0
+1728906000972,92,https://www.demoblaze.com/bm.png,304,Not Modified,Thread Group 1-2,,true,,165,427,3,3,https://www.demoblaze.com/bm.png,0,0,0
+1728906001065,98,https://www.demoblaze.com/css/fonts/Lato-Regular.woff2,304,Not Modified,Thread Group 1-2,,true,,165,388,3,3,https://www.demoblaze.com/css/fonts/Lato-Regular.woff2,0,0,0
+1728906001164,97,https://www.demoblaze.com/bm.png,304,Not Modified,Thread Group 1-2,,true,,165,427,3,3,https://www.demoblaze.com/bm.png,0,0,0
+1728906001261,213,https://www.demoblaze.com/js/cart.js,200,OK,Thread Group 1-2,text,true,,2992,345,3,3,https://www.demoblaze.com/js/cart.js,211,0,0
+1728906001475,219,https://www.demoblaze.com/node_modules/bootstrap-sweetalert/dist/sweetalert.min.js,200,OK,Thread Group 1-2,text,true,,6363,391,3,3,https://www.demoblaze.com/node_modules/bootstrap-sweetalert/dist/sweetalert.min.js,207,0,0
+1728906001695,99,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,304,Not Modified,Thread Group 1-2,,true,,165,407,3,3,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,0,0,0
+1728906001795,98,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,304,Not Modified,Thread Group 1-2,,true,,165,401,3,3,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,0,0,0
+1728906001894,97,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,304,Not Modified,Thread Group 1-2,,true,,165,424,3,3,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,0,0,0
+1728906001992,97,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,304,Not Modified,Thread Group 1-2,,true,,165,399,3,3,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,0,0,0
+1728906002089,246,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,304,Not Modified,Thread Group 1-2,,true,,165,398,3,3,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,0,0,0
+1728906002335,437,https://www.demoblaze.com/imgs/front.jpg,304,Not Modified,Thread Group 1-2,,true,,165,435,3,3,https://www.demoblaze.com/imgs/front.jpg,0,0,0
+1728906002773,202,https://www.demoblaze.com/css/latostyle.css,304,Not Modified,Thread Group 1-2,,true,,165,392,3,3,https://www.demoblaze.com/css/latostyle.css,0,0,0
+1728906002976,392,https://www.demoblaze.com/css/latofonts.css,304,Not Modified,Thread Group 1-2,,true,,165,392,3,3,https://www.demoblaze.com/css/latofonts.css,0,0,0
+1728906003369,163,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,304,Not Modified,Thread Group 1-2,,true,,165,418,3,3,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,0,0,0
+1728906003533,365,https://www.demoblaze.com/node_modules/bootstrap-sweetalert/dist/sweetalert.css,200,OK,Thread Group 1-2,text,true,,13335,403,3,3,https://www.demoblaze.com/node_modules/bootstrap-sweetalert/dist/sweetalert.css,365,0,0
+1728906003899,325,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,304,Not Modified,Thread Group 1-2,,true,,165,424,3,3,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,0,0,0
+1728906006732,350,https://www.demoblaze.com/cart.html,200,OK,Thread Group 1-2,text,true,,24602,755,3,3,https://www.demoblaze.com/cart.html,349,0,0
+1728906007084,295,https://www.demoblaze.com/favicon.ico,304,Not Modified,Thread Group 1-2,,true,,165,432,3,3,https://www.demoblaze.com/favicon.ico,0,0,0
+1728906007380,515,https://www.demoblaze.com/css/latostyle.css,304,Not Modified,Thread Group 1-2,,true,,165,392,3,3,https://www.demoblaze.com/css/latostyle.css,0,0,0
+1728906007896,511,https://www.demoblaze.com/imgs/Lumia_1520.jpg,304,Not Modified,Thread Group 1-2,,true,,165,440,3,3,https://www.demoblaze.com/imgs/Lumia_1520.jpg,0,0,0
+1728906008407,265,https://www.demoblaze.com/bm.png,304,Not Modified,Thread Group 1-2,,true,,165,427,3,3,https://www.demoblaze.com/bm.png,0,0,0
+1728906008673,344,https://www.demoblaze.com/css/latofonts.css,304,Not Modified,Thread Group 1-2,,true,,165,392,3,3,https://www.demoblaze.com/css/latofonts.css,0,0,0
+1728906009018,306,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,304,Not Modified,Thread Group 1-2,,true,,266,410,3,3,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,0,0,0
+1728906009325,248,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,304,Not Modified,Thread Group 1-2,,true,,165,424,3,3,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,0,0,0
+1728906009574,364,https://hls.demoblaze.com/index.m3u8,304,Not Modified,Thread Group 1-2,,true,,266,396,3,3,https://hls.demoblaze.com/index.m3u8,0,0,0
+1728906009939,308,https://www.demoblaze.com/js/index.js,304,Not Modified,Thread Group 1-2,,true,,165,371,3,3,https://www.demoblaze.com/js/index.js,0,0,0
+1728906010247,268,https://www.demoblaze.com/Samsung1.jpg,304,Not Modified,Thread Group 1-2,,true,,165,433,3,3,https://www.demoblaze.com/Samsung1.jpg,0,0,0
+1728906010516,249,https://www.demoblaze.com/css/fonts/Lato-Regular.woff2,304,Not Modified,Thread Group 1-2,,true,,165,388,3,3,https://www.demoblaze.com/css/fonts/Lato-Regular.woff2,0,0,0
+1728906010766,241,https://www.demoblaze.com/bm.png,304,Not Modified,Thread Group 1-2,,true,,165,427,3,3,https://www.demoblaze.com/bm.png,0,0,0
+1728906011008,364,https://www.demoblaze.com/config.json,304,Not Modified,Thread Group 1-2,,true,,165,448,3,3,https://www.demoblaze.com/config.json,0,0,0
+1728906011373,265,Check,200,OK,Thread Group 1-2,text,true,,302,425,3,3,https://api.demoblaze.com/check,265,0,0
+1728906011639,289,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,304,Not Modified,Thread Group 1-2,,true,,165,401,3,3,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,0,0,0
+1728906011929,326,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,304,Not Modified,Thread Group 1-2,,true,,165,399,3,3,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,0,0,0
+1728906012256,452,https://www.demoblaze.com/favicon.ico,304,Not Modified,Thread Group 1-2,,true,,165,432,3,3,https://www.demoblaze.com/favicon.ico,0,0,0
+1728906012709,245,View,200,OK,Thread Group 1-2,text,true,,432,399,3,3,https://api.demoblaze.com/view,245,0,0
+1728906012954,677,DeleteCart,200,OK,Thread Group 1-2,text,true,,206,421,3,3,https://api.demoblaze.com/deletecart,677,0,0
+1728906013631,307,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,304,Not Modified,Thread Group 1-2,,true,,165,424,3,3,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,0,0,0
+1728906013939,204,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,304,Not Modified,Thread Group 1-2,,true,,266,413,3,3,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,0,0,0
+1728906015299,282,https://www.demoblaze.com/index.html,304,Not Modified,Thread Group 1-2,,true,,165,781,3,3,https://www.demoblaze.com/index.html,0,0,0
+1728906015582,1019,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,304,Not Modified,Thread Group 1-2,,true,,165,407,3,3,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,0,0,845
+1728906016602,218,https://www.demoblaze.com/imgs/front.jpg,304,Not Modified,Thread Group 1-2,,true,,165,435,3,3,https://www.demoblaze.com/imgs/front.jpg,0,0,0
+1728906016821,319,ViewCart,200,OK,Thread Group 1-2,text,true,,203,441,3,3,https://api.demoblaze.com/viewcart,319,0,0
+1728906017140,221,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,304,Not Modified,Thread Group 1-2,,true,,165,418,3,3,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,0,0,0
+1728906017361,263,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,304,Not Modified,Thread Group 1-2,,true,,165,398,3,3,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,0,0,0
+1728906017625,300,https://www.demoblaze.com/iphone1.jpg,304,Not Modified,Thread Group 1-2,,true,,165,432,3,3,https://www.demoblaze.com/iphone1.jpg,0,0,0
+1728906017926,237,https://www.demoblaze.com/nexus1.jpg,304,Not Modified,Thread Group 1-2,,true,,165,431,3,3,https://www.demoblaze.com/nexus1.jpg,0,0,0
+1728906018163,1,Debug Sampler,200,OK,Thread Group 1-2,text,true,,553,0,3,3,null,0,0,0
+1728906018164,282,AddToCart,200,OK,Thread Group 1-2,text,true,,197,501,3,3,https://api.demoblaze.com/addtocart,282,0,0
+1728906018446,1,Debug Sampler,200,OK,Thread Group 1-2,text,true,,553,0,3,3,null,0,0,0
+1728906018447,217,https://www.demoblaze.com/favicon.ico,304,Not Modified,Thread Group 1-2,,true,,165,432,3,3,https://www.demoblaze.com/favicon.ico,0,0,0
+1728906018665,219,https://www.demoblaze.com/config.json,304,Not Modified,Thread Group 1-2,,true,,165,448,3,3,https://www.demoblaze.com/config.json,0,0,0
+1728906018885,212,https://www.demoblaze.com/bm.png,304,Not Modified,Thread Group 1-2,,true,,165,427,3,3,https://www.demoblaze.com/bm.png,0,0,0
+1728906019098,220,https://www.demoblaze.com/css/fonts/Lato-Regular.woff2,304,Not Modified,Thread Group 1-2,,true,,165,388,3,3,https://www.demoblaze.com/css/fonts/Lato-Regular.woff2,0,0,0
+1728906019318,100,https://www.demoblaze.com/bm.png,304,Not Modified,Thread Group 1-2,,true,,165,427,3,3,https://www.demoblaze.com/bm.png,0,0,0
+1728906019419,102,https://www.demoblaze.com/js/cart.js,304,Not Modified,Thread Group 1-2,,true,,165,370,3,3,https://www.demoblaze.com/js/cart.js,0,0,0
+1728906019522,102,https://www.demoblaze.com/node_modules/bootstrap-sweetalert/dist/sweetalert.min.js,304,Not Modified,Thread Group 1-2,,true,,165,416,3,3,https://www.demoblaze.com/node_modules/bootstrap-sweetalert/dist/sweetalert.min.js,0,0,0
+1728906019625,227,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,304,Not Modified,Thread Group 1-2,,true,,165,407,3,3,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,0,0,0
+1728906019852,213,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,304,Not Modified,Thread Group 1-2,,true,,165,401,3,3,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,0,0,0
+1728906020066,227,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,304,Not Modified,Thread Group 1-2,,true,,165,424,3,3,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,0,0,0
+1728906020293,505,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,304,Not Modified,Thread Group 1-2,,true,,165,399,3,3,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,0,0,0
+1728906020799,309,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,304,Not Modified,Thread Group 1-2,,true,,165,398,3,3,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,0,0,0
+1728906021109,401,https://www.demoblaze.com/imgs/front.jpg,304,Not Modified,Thread Group 1-2,,true,,165,435,3,3,https://www.demoblaze.com/imgs/front.jpg,0,0,0
+1728906021511,350,https://www.demoblaze.com/css/latostyle.css,304,Not Modified,Thread Group 1-2,,true,,165,392,3,3,https://www.demoblaze.com/css/latostyle.css,0,0,0
+1728906021862,220,https://www.demoblaze.com/css/latofonts.css,304,Not Modified,Thread Group 1-2,,true,,165,392,3,3,https://www.demoblaze.com/css/latofonts.css,0,0,0
+1728906022083,436,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,304,Not Modified,Thread Group 1-2,,true,,165,418,3,3,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,0,0,0
+1728906022520,218,https://www.demoblaze.com/node_modules/bootstrap-sweetalert/dist/sweetalert.css,304,Not Modified,Thread Group 1-2,,true,,165,428,3,3,https://www.demoblaze.com/node_modules/bootstrap-sweetalert/dist/sweetalert.css,0,0,0
+1728906022739,231,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,304,Not Modified,Thread Group 1-2,,true,,165,424,3,3,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,0,0,0
+1728906028878,522,https://www.demoblaze.com/cart.html,304,Not Modified,Thread Group 1-2,,true,,165,780,3,3,https://www.demoblaze.com/cart.html,0,0,0
+1728906029401,302,https://www.demoblaze.com/favicon.ico,304,Not Modified,Thread Group 1-2,,true,,165,432,3,3,https://www.demoblaze.com/favicon.ico,0,0,0
+1728906029703,248,https://www.demoblaze.com/css/latostyle.css,304,Not Modified,Thread Group 1-2,,true,,165,392,3,3,https://www.demoblaze.com/css/latostyle.css,0,0,0
+1728906029952,364,https://www.demoblaze.com/imgs/Lumia_1520.jpg,304,Not Modified,Thread Group 1-2,,true,,165,440,3,3,https://www.demoblaze.com/imgs/Lumia_1520.jpg,0,0,0
+1728906030316,312,https://www.demoblaze.com/bm.png,304,Not Modified,Thread Group 1-2,,true,,165,427,3,3,https://www.demoblaze.com/bm.png,0,0,0
+1728906030629,306,https://www.demoblaze.com/css/latofonts.css,304,Not Modified,Thread Group 1-2,,true,,165,392,3,3,https://www.demoblaze.com/css/latofonts.css,0,0,0
+1728906030936,306,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,304,Not Modified,Thread Group 1-2,,true,,266,410,3,3,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,0,0,0
+1728906031243,307,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,304,Not Modified,Thread Group 1-2,,true,,165,424,3,3,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,0,0,0
+1728906031551,205,https://hls.demoblaze.com/index.m3u8,304,Not Modified,Thread Group 1-2,,true,,266,396,3,3,https://hls.demoblaze.com/index.m3u8,0,0,0
+1728906031756,275,https://www.demoblaze.com/js/index.js,304,Not Modified,Thread Group 1-2,,true,,165,371,3,3,https://www.demoblaze.com/js/index.js,0,0,0
+1728906032031,242,https://www.demoblaze.com/Samsung1.jpg,304,Not Modified,Thread Group 1-2,,true,,165,433,3,3,https://www.demoblaze.com/Samsung1.jpg,0,0,0
+1728906032273,228,https://www.demoblaze.com/css/fonts/Lato-Regular.woff2,304,Not Modified,Thread Group 1-2,,true,,165,388,3,3,https://www.demoblaze.com/css/fonts/Lato-Regular.woff2,0,0,0
+1728906032502,282,https://www.demoblaze.com/bm.png,304,Not Modified,Thread Group 1-2,,true,,165,427,3,3,https://www.demoblaze.com/bm.png,0,0,0
+1728906032785,249,https://www.demoblaze.com/config.json,304,Not Modified,Thread Group 1-2,,true,,165,448,3,3,https://www.demoblaze.com/config.json,0,0,0
+1728906033035,357,Check,200,OK,Thread Group 1-2,text,true,,298,425,3,3,https://api.demoblaze.com/check,357,0,0
+1728906033393,251,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,304,Not Modified,Thread Group 1-2,,true,,165,401,3,3,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,0,0,0
+1728906033645,216,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,304,Not Modified,Thread Group 1-2,,true,,165,399,3,3,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,0,0,0
+1728906033861,251,https://www.demoblaze.com/favicon.ico,304,Not Modified,Thread Group 1-2,,true,,165,432,3,3,https://www.demoblaze.com/favicon.ico,0,0,0
+1728906034113,299,View,200,OK,Thread Group 1-2,text,true,,432,399,3,3,https://api.demoblaze.com/view,299,0,0
+1728906034413,247,DeleteCart,200,OK,Thread Group 1-2,text,true,,206,421,3,3,https://api.demoblaze.com/deletecart,247,0,0
+1728906034661,370,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,304,Not Modified,Thread Group 1-2,,true,,165,424,3,3,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,0,0,0
+1728906035032,307,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,304,Not Modified,Thread Group 1-2,,true,,266,413,3,3,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,0,0,0
+1728906040415,281,https://www.demoblaze.com/index.html,304,Not Modified,Thread Group 1-2,,true,,165,781,3,3,https://www.demoblaze.com/index.html,0,0,0
+1728906040696,305,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,304,Not Modified,Thread Group 1-2,,true,,165,407,3,3,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,0,0,0
+1728906041002,278,https://www.demoblaze.com/imgs/front.jpg,304,Not Modified,Thread Group 1-2,,true,,165,435,3,3,https://www.demoblaze.com/imgs/front.jpg,0,0,0
+1728906041280,1120,ViewCart,200,OK,Thread Group 1-2,text,true,,203,441,3,3,https://api.demoblaze.com/viewcart,1120,0,616
+1728906042401,248,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,304,Not Modified,Thread Group 1-2,,true,,165,418,3,3,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,0,0,0
+1728906042649,307,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,304,Not Modified,Thread Group 1-2,,true,,165,398,3,3,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,0,0,0
+1728906042957,365,https://www.demoblaze.com/iphone1.jpg,304,Not Modified,Thread Group 1-2,,true,,165,432,3,3,https://www.demoblaze.com/iphone1.jpg,0,0,0
+1728906043323,351,https://www.demoblaze.com/nexus1.jpg,304,Not Modified,Thread Group 1-2,,true,,165,431,3,3,https://www.demoblaze.com/nexus1.jpg,0,0,0
+1728906043674,0,Debug Sampler,200,OK,Thread Group 1-2,text,true,,553,0,3,3,null,0,0,0
+1728906043675,364,AddToCart,200,OK,Thread Group 1-2,text,true,,201,501,3,3,https://api.demoblaze.com/addtocart,364,0,0
+1728906044039,1,Debug Sampler,200,OK,Thread Group 1-2,text,true,,553,0,3,3,null,0,0,0
+1728906044040,306,https://www.demoblaze.com/favicon.ico,304,Not Modified,Thread Group 1-2,,true,,165,432,3,3,https://www.demoblaze.com/favicon.ico,0,0,0
+1728906044347,210,https://www.demoblaze.com/config.json,304,Not Modified,Thread Group 1-2,,true,,165,448,3,3,https://www.demoblaze.com/config.json,0,0,0
+1728906044557,218,https://www.demoblaze.com/bm.png,304,Not Modified,Thread Group 1-2,,true,,165,427,3,3,https://www.demoblaze.com/bm.png,0,0,0
+1728906044776,209,https://www.demoblaze.com/css/fonts/Lato-Regular.woff2,304,Not Modified,Thread Group 1-2,,true,,165,388,3,3,https://www.demoblaze.com/css/fonts/Lato-Regular.woff2,0,0,0
+1728906044985,223,https://www.demoblaze.com/bm.png,304,Not Modified,Thread Group 1-2,,true,,165,427,3,3,https://www.demoblaze.com/bm.png,0,0,0
+1728906045209,229,https://www.demoblaze.com/js/cart.js,304,Not Modified,Thread Group 1-2,,true,,165,370,3,3,https://www.demoblaze.com/js/cart.js,0,0,0
+1728906045439,228,https://www.demoblaze.com/node_modules/bootstrap-sweetalert/dist/sweetalert.min.js,304,Not Modified,Thread Group 1-2,,true,,165,416,3,3,https://www.demoblaze.com/node_modules/bootstrap-sweetalert/dist/sweetalert.min.js,0,0,0
+1728906045668,237,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,304,Not Modified,Thread Group 1-2,,true,,165,407,3,3,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,0,0,0
+1728906045906,218,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,304,Not Modified,Thread Group 1-2,,true,,165,401,3,3,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,0,0,0
+1728906046125,226,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,304,Not Modified,Thread Group 1-2,,true,,165,424,3,3,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,0,0,0
+1728906046351,229,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,304,Not Modified,Thread Group 1-2,,true,,165,399,3,3,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,0,0,0
+1728906046580,229,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,304,Not Modified,Thread Group 1-2,,true,,165,398,3,3,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,0,0,0
+1728906046809,300,https://www.demoblaze.com/imgs/front.jpg,304,Not Modified,Thread Group 1-2,,true,,165,435,3,3,https://www.demoblaze.com/imgs/front.jpg,0,0,0
+1728906047110,306,https://www.demoblaze.com/css/latostyle.css,304,Not Modified,Thread Group 1-2,,true,,165,392,3,3,https://www.demoblaze.com/css/latostyle.css,0,0,0
+1728906047417,227,https://www.demoblaze.com/css/latofonts.css,304,Not Modified,Thread Group 1-2,,true,,165,392,3,3,https://www.demoblaze.com/css/latofonts.css,0,0,0
+1728906047645,289,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,304,Not Modified,Thread Group 1-2,,true,,165,418,3,3,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,0,0,0
+1728906047934,264,https://www.demoblaze.com/node_modules/bootstrap-sweetalert/dist/sweetalert.css,304,Not Modified,Thread Group 1-2,,true,,165,428,3,3,https://www.demoblaze.com/node_modules/bootstrap-sweetalert/dist/sweetalert.css,0,0,0
+1728906048199,426,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,304,Not Modified,Thread Group 1-2,,true,,165,424,3,3,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,0,0,0
+1728906049100,228,https://www.demoblaze.com/cart.html,304,Not Modified,Thread Group 1-2,,true,,165,780,3,3,https://www.demoblaze.com/cart.html,0,0,0
+1728906049329,341,https://www.demoblaze.com/favicon.ico,304,Not Modified,Thread Group 1-2,,true,,165,432,3,3,https://www.demoblaze.com/favicon.ico,0,0,0
+1728906049670,410,https://www.demoblaze.com/css/latostyle.css,304,Not Modified,Thread Group 1-2,,true,,165,392,3,3,https://www.demoblaze.com/css/latostyle.css,0,0,0
+1728906050080,511,https://www.demoblaze.com/imgs/Lumia_1520.jpg,304,Not Modified,Thread Group 1-2,,true,,165,440,3,3,https://www.demoblaze.com/imgs/Lumia_1520.jpg,0,0,0
+1728906050592,259,https://www.demoblaze.com/bm.png,304,Not Modified,Thread Group 1-2,,true,,165,427,3,3,https://www.demoblaze.com/bm.png,0,0,0
+1728906050852,280,https://www.demoblaze.com/css/latofonts.css,304,Not Modified,Thread Group 1-2,,true,,165,392,3,3,https://www.demoblaze.com/css/latofonts.css,0,0,0
+1728906051132,804,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,304,Not Modified,Thread Group 1-2,,true,,266,410,3,3,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,0,0,591
+1728906051937,293,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,304,Not Modified,Thread Group 1-2,,true,,165,424,3,3,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,0,0,0
+1728906052230,248,https://hls.demoblaze.com/index.m3u8,304,Not Modified,Thread Group 1-2,,true,,267,396,3,3,https://hls.demoblaze.com/index.m3u8,0,0,0
+1728906052478,300,https://www.demoblaze.com/js/index.js,304,Not Modified,Thread Group 1-2,,true,,165,371,3,3,https://www.demoblaze.com/js/index.js,0,0,0
+1728906052779,264,https://www.demoblaze.com/Samsung1.jpg,304,Not Modified,Thread Group 1-2,,true,,165,433,3,3,https://www.demoblaze.com/Samsung1.jpg,0,0,0
+1728906053044,227,https://www.demoblaze.com/css/fonts/Lato-Regular.woff2,304,Not Modified,Thread Group 1-2,,true,,165,388,3,3,https://www.demoblaze.com/css/fonts/Lato-Regular.woff2,0,0,0
+1728906053271,346,https://www.demoblaze.com/bm.png,304,Not Modified,Thread Group 1-2,,true,,165,427,3,3,https://www.demoblaze.com/bm.png,0,0,0
+1728906053617,268,https://www.demoblaze.com/config.json,304,Not Modified,Thread Group 1-2,,true,,165,448,3,3,https://www.demoblaze.com/config.json,0,0,0
+1728906053886,407,Check,200,OK,Thread Group 1-2,text,true,,298,425,3,3,https://api.demoblaze.com/check,407,0,0
+1728906054294,290,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,304,Not Modified,Thread Group 1-2,,true,,165,401,3,3,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,0,0,0
+1728906054584,206,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,304,Not Modified,Thread Group 1-2,,true,,165,399,3,3,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,0,0,0
+1728906054791,224,https://www.demoblaze.com/favicon.ico,304,Not Modified,Thread Group 1-2,,true,,165,432,3,3,https://www.demoblaze.com/favicon.ico,0,0,0
+1728906055016,1865,View,200,OK,Thread Group 1-2,text,true,,432,399,3,3,https://api.demoblaze.com/view,1865,0,0
+1728906056881,2004,DeleteCart,200,OK,Thread Group 1-2,text,true,,206,421,3,3,https://api.demoblaze.com/deletecart,2004,0,0
+1728906058886,406,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,304,Not Modified,Thread Group 1-2,,true,,165,424,3,3,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,0,0,0
+1728906059292,88,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,304,Not Modified,Thread Group 1-2,,true,,266,413,3,3,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,0,0,0
+1728906059487,631,https://www.demoblaze.com/index.html,304,Not Modified,Thread Group 1-2,,true,,165,781,3,3,https://www.demoblaze.com/index.html,0,0,0
+1728906060119,264,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,304,Not Modified,Thread Group 1-2,,true,,165,407,3,3,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,0,0,0
+1728906060384,305,https://www.demoblaze.com/imgs/front.jpg,304,Not Modified,Thread Group 1-2,,true,,165,435,3,3,https://www.demoblaze.com/imgs/front.jpg,0,0,0
+1728906060690,1210,ViewCart,200,OK,Thread Group 1-2,text,true,,203,441,3,3,https://api.demoblaze.com/viewcart,1210,0,0
+1728906061900,307,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,304,Not Modified,Thread Group 1-2,,true,,165,418,3,3,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,0,0,0
+1728906062208,370,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,304,Not Modified,Thread Group 1-2,,true,,165,398,3,3,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,0,0,0
+1728906062578,235,https://www.demoblaze.com/iphone1.jpg,304,Not Modified,Thread Group 1-2,,true,,165,432,3,3,https://www.demoblaze.com/iphone1.jpg,0,0,0
+1728906062813,220,https://www.demoblaze.com/nexus1.jpg,304,Not Modified,Thread Group 1-2,,true,,165,431,3,3,https://www.demoblaze.com/nexus1.jpg,0,0,0
+1728906063033,1,Debug Sampler,200,OK,Thread Group 1-2,text,true,,553,0,3,3,null,0,0,0
+1728905987000,43406,Transaction Controller Add To Cart,200,"Number of samples in transaction : 153, number of failing samples : 0",Thread Group 1-3,,true,,57927,63332,3,3,null,0,35012,1167
+1728905987000,409,AddToCart,200,OK,Thread Group 1-3,text,true,,197,501,3,3,https://api.demoblaze.com/addtocart,409,0,0
+1728905987409,0,Debug Sampler,200,OK,Thread Group 1-3,text,true,,553,0,3,3,null,0,0,0
+1728905987409,412,https://www.demoblaze.com/favicon.ico,304,Not Modified,Thread Group 1-3,,true,,165,432,3,3,https://www.demoblaze.com/favicon.ico,0,0,0
+1728905987821,512,https://www.demoblaze.com/config.json,304,Not Modified,Thread Group 1-3,,true,,165,448,3,3,https://www.demoblaze.com/config.json,0,0,0
+1728905988333,235,https://www.demoblaze.com/bm.png,304,Not Modified,Thread Group 1-3,,true,,165,427,3,3,https://www.demoblaze.com/bm.png,0,0,0
+1728905988568,379,https://www.demoblaze.com/css/fonts/Lato-Regular.woff2,304,Not Modified,Thread Group 1-3,,true,,165,388,3,3,https://www.demoblaze.com/css/fonts/Lato-Regular.woff2,0,0,0
+1728905988947,249,https://www.demoblaze.com/bm.png,304,Not Modified,Thread Group 1-3,,true,,165,427,3,3,https://www.demoblaze.com/bm.png,0,0,0
+1728905989196,372,https://www.demoblaze.com/js/cart.js,200,OK,Thread Group 1-3,text,true,,2894,345,3,3,https://www.demoblaze.com/js/cart.js,371,0,0
+1728905989569,310,https://www.demoblaze.com/node_modules/bootstrap-sweetalert/dist/sweetalert.min.js,200,OK,Thread Group 1-3,text,true,,6441,391,3,3,https://www.demoblaze.com/node_modules/bootstrap-sweetalert/dist/sweetalert.min.js,309,0,0
+1728905989880,403,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,304,Not Modified,Thread Group 1-3,,true,,165,407,3,3,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,0,0,0
+1728905990284,433,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,304,Not Modified,Thread Group 1-3,,true,,165,401,3,3,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,0,0,0
+1728905990718,379,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,304,Not Modified,Thread Group 1-3,,true,,165,424,3,3,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,0,0,0
+1728905991098,319,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,304,Not Modified,Thread Group 1-3,,true,,165,399,3,3,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,0,0,0
+1728905991418,397,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,304,Not Modified,Thread Group 1-3,,true,,165,398,3,3,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,0,0,0
+1728905991816,231,https://www.demoblaze.com/imgs/front.jpg,304,Not Modified,Thread Group 1-3,,true,,165,435,3,3,https://www.demoblaze.com/imgs/front.jpg,0,0,0
+1728905992048,297,https://www.demoblaze.com/css/latostyle.css,304,Not Modified,Thread Group 1-3,,true,,165,392,3,3,https://www.demoblaze.com/css/latostyle.css,0,0,0
+1728905992346,237,https://www.demoblaze.com/css/latofonts.css,304,Not Modified,Thread Group 1-3,,true,,165,392,3,3,https://www.demoblaze.com/css/latofonts.css,0,0,0
+1728905992584,465,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,304,Not Modified,Thread Group 1-3,,true,,165,418,3,3,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,0,0,0
+1728905993050,345,https://www.demoblaze.com/node_modules/bootstrap-sweetalert/dist/sweetalert.css,200,OK,Thread Group 1-3,text,true,,13335,403,3,3,https://www.demoblaze.com/node_modules/bootstrap-sweetalert/dist/sweetalert.css,222,0,0
+1728905993396,224,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,304,Not Modified,Thread Group 1-3,,true,,165,424,3,3,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,0,0,0
+1728905996964,251,https://www.demoblaze.com/cart.html,200,OK,Thread Group 1-3,text,true,,5896,755,3,3,https://www.demoblaze.com/cart.html,246,0,0
+1728905997217,230,https://www.demoblaze.com/favicon.ico,304,Not Modified,Thread Group 1-3,,true,,165,432,3,3,https://www.demoblaze.com/favicon.ico,0,0,0
+1728905997447,205,https://www.demoblaze.com/css/latostyle.css,304,Not Modified,Thread Group 1-3,,true,,165,392,3,3,https://www.demoblaze.com/css/latostyle.css,0,0,0
+1728905997653,310,https://www.demoblaze.com/imgs/Lumia_1520.jpg,304,Not Modified,Thread Group 1-3,,true,,165,440,3,3,https://www.demoblaze.com/imgs/Lumia_1520.jpg,0,0,0
+1728905997964,207,https://www.demoblaze.com/bm.png,304,Not Modified,Thread Group 1-3,,true,,165,427,3,3,https://www.demoblaze.com/bm.png,0,0,0
+1728905998173,206,https://www.demoblaze.com/css/latofonts.css,304,Not Modified,Thread Group 1-3,,true,,165,392,3,3,https://www.demoblaze.com/css/latofonts.css,0,0,0
+1728905998380,295,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,304,Not Modified,Thread Group 1-3,,true,,266,410,3,3,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,0,0,0
+1728905998676,260,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,304,Not Modified,Thread Group 1-3,,true,,165,424,3,3,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,0,0,0
+1728905998937,192,https://hls.demoblaze.com/index.m3u8,304,Not Modified,Thread Group 1-3,,true,,267,396,3,3,https://hls.demoblaze.com/index.m3u8,0,0,0
+1728905999130,311,https://www.demoblaze.com/js/index.js,304,Not Modified,Thread Group 1-3,,true,,165,371,3,3,https://www.demoblaze.com/js/index.js,0,0,0
+1728905999442,257,https://www.demoblaze.com/Samsung1.jpg,304,Not Modified,Thread Group 1-3,,true,,165,433,3,3,https://www.demoblaze.com/Samsung1.jpg,0,0,0
+1728905999700,224,https://www.demoblaze.com/css/fonts/Lato-Regular.woff2,304,Not Modified,Thread Group 1-3,,true,,165,388,3,3,https://www.demoblaze.com/css/fonts/Lato-Regular.woff2,0,0,0
+1728905999925,221,https://www.demoblaze.com/bm.png,304,Not Modified,Thread Group 1-3,,true,,165,427,3,3,https://www.demoblaze.com/bm.png,0,0,0
+1728906000147,248,https://www.demoblaze.com/config.json,304,Not Modified,Thread Group 1-3,,true,,165,448,3,3,https://www.demoblaze.com/config.json,0,0,0
+1728906000396,301,Check,200,OK,Thread Group 1-3,text,true,,298,425,3,3,https://api.demoblaze.com/check,301,0,0
+1728906000698,224,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,304,Not Modified,Thread Group 1-3,,true,,165,401,3,3,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,0,0,0
+1728906000923,218,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,304,Not Modified,Thread Group 1-3,,true,,165,399,3,3,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,0,0,0
+1728906001142,229,https://www.demoblaze.com/favicon.ico,304,Not Modified,Thread Group 1-3,,true,,165,432,3,3,https://www.demoblaze.com/favicon.ico,0,0,0
+1728906001372,262,View,200,OK,Thread Group 1-3,text,true,,436,399,3,3,https://api.demoblaze.com/view,262,0,0
+1728906001635,270,DeleteCart,200,OK,Thread Group 1-3,text,true,,206,421,3,3,https://api.demoblaze.com/deletecart,270,0,0
+1728906001906,217,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,304,Not Modified,Thread Group 1-3,,true,,165,424,3,3,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,0,0,0
+1728906002124,84,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,304,Not Modified,Thread Group 1-3,,true,,266,413,3,3,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,0,0,0
+1728906012122,286,https://www.demoblaze.com/index.html,304,Not Modified,Thread Group 1-3,,true,,165,781,3,3,https://www.demoblaze.com/index.html,0,0,0
+1728906012409,302,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,304,Not Modified,Thread Group 1-3,,true,,165,407,3,3,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,0,0,0
+1728906012712,242,https://www.demoblaze.com/imgs/front.jpg,304,Not Modified,Thread Group 1-3,,true,,165,435,3,3,https://www.demoblaze.com/imgs/front.jpg,0,0,0
+1728906012954,677,ViewCart,200,OK,Thread Group 1-3,text,true,,203,441,3,3,https://api.demoblaze.com/viewcart,677,0,0
+1728906013631,106,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,304,Not Modified,Thread Group 1-3,,true,,165,418,3,3,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,0,0,0
+1728906013738,248,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,304,Not Modified,Thread Group 1-3,,true,,165,398,3,3,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,0,0,0
+1728906013987,210,https://www.demoblaze.com/iphone1.jpg,304,Not Modified,Thread Group 1-3,,true,,165,432,3,3,https://www.demoblaze.com/iphone1.jpg,0,0,0
+1728906014197,254,https://www.demoblaze.com/nexus1.jpg,304,Not Modified,Thread Group 1-3,,true,,165,431,3,3,https://www.demoblaze.com/nexus1.jpg,0,0,0
+1728906014452,0,Debug Sampler,200,OK,Thread Group 1-3,text,true,,553,0,3,3,null,0,0,0
+1728906014453,503,AddToCart,200,OK,Thread Group 1-3,text,true,,197,501,3,3,https://api.demoblaze.com/addtocart,503,0,0
+1728906014956,1,Debug Sampler,200,OK,Thread Group 1-3,text,true,,553,0,3,3,null,0,0,0
+1728906014957,344,https://www.demoblaze.com/favicon.ico,304,Not Modified,Thread Group 1-3,,true,,165,432,3,3,https://www.demoblaze.com/favicon.ico,0,0,0
+1728906015302,279,https://www.demoblaze.com/config.json,304,Not Modified,Thread Group 1-3,,true,,165,448,3,3,https://www.demoblaze.com/config.json,0,0,0
+1728906015582,209,https://www.demoblaze.com/bm.png,304,Not Modified,Thread Group 1-3,,true,,165,427,3,3,https://www.demoblaze.com/bm.png,0,0,0
+1728906015793,627,https://www.demoblaze.com/css/fonts/Lato-Regular.woff2,304,Not Modified,Thread Group 1-3,,true,,165,388,3,3,https://www.demoblaze.com/css/fonts/Lato-Regular.woff2,0,0,0
+1728906016420,181,https://www.demoblaze.com/bm.png,304,Not Modified,Thread Group 1-3,,true,,165,427,3,3,https://www.demoblaze.com/bm.png,0,0,0
+1728906016602,754,https://www.demoblaze.com/js/cart.js,304,Not Modified,Thread Group 1-3,,true,,165,370,3,3,https://www.demoblaze.com/js/cart.js,0,0,420
+1728906017357,267,https://www.demoblaze.com/node_modules/bootstrap-sweetalert/dist/sweetalert.min.js,304,Not Modified,Thread Group 1-3,,true,,165,416,3,3,https://www.demoblaze.com/node_modules/bootstrap-sweetalert/dist/sweetalert.min.js,0,0,0
+1728906017625,300,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,304,Not Modified,Thread Group 1-3,,true,,165,407,3,3,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,0,0,0
+1728906017926,237,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,304,Not Modified,Thread Group 1-3,,true,,165,401,3,3,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,0,0,0
+1728906018164,282,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,304,Not Modified,Thread Group 1-3,,true,,165,424,3,3,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,0,0,0
+1728906018446,210,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,304,Not Modified,Thread Group 1-3,,true,,165,399,3,3,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,0,0,0
+1728906018656,99,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,304,Not Modified,Thread Group 1-3,,true,,165,398,3,3,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,0,0,0
+1728906018756,106,https://www.demoblaze.com/imgs/front.jpg,304,Not Modified,Thread Group 1-3,,true,,165,435,3,3,https://www.demoblaze.com/imgs/front.jpg,0,0,0
+1728906018862,100,https://www.demoblaze.com/css/latostyle.css,304,Not Modified,Thread Group 1-3,,true,,165,392,3,3,https://www.demoblaze.com/css/latostyle.css,0,0,0
+1728906018962,205,https://www.demoblaze.com/css/latofonts.css,304,Not Modified,Thread Group 1-3,,true,,165,392,3,3,https://www.demoblaze.com/css/latofonts.css,0,0,0
+1728906019167,102,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,304,Not Modified,Thread Group 1-3,,true,,165,418,3,3,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,0,0,0
+1728906019270,221,https://www.demoblaze.com/node_modules/bootstrap-sweetalert/dist/sweetalert.css,304,Not Modified,Thread Group 1-3,,true,,165,428,3,3,https://www.demoblaze.com/node_modules/bootstrap-sweetalert/dist/sweetalert.css,0,0,0
+1728906019492,206,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,304,Not Modified,Thread Group 1-3,,true,,165,424,3,3,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,0,0,0
+1728906023867,307,https://www.demoblaze.com/cart.html,304,Not Modified,Thread Group 1-3,,true,,165,780,3,3,https://www.demoblaze.com/cart.html,0,0,0
+1728906024175,339,https://www.demoblaze.com/favicon.ico,304,Not Modified,Thread Group 1-3,,true,,165,432,3,3,https://www.demoblaze.com/favicon.ico,0,0,0
+1728906024515,99,https://www.demoblaze.com/css/latostyle.css,304,Not Modified,Thread Group 1-3,,true,,165,392,3,3,https://www.demoblaze.com/css/latostyle.css,0,0,0
+1728906024615,209,https://www.demoblaze.com/imgs/Lumia_1520.jpg,304,Not Modified,Thread Group 1-3,,true,,165,440,3,3,https://www.demoblaze.com/imgs/Lumia_1520.jpg,0,0,0
+1728906024824,271,https://www.demoblaze.com/bm.png,304,Not Modified,Thread Group 1-3,,true,,165,427,3,3,https://www.demoblaze.com/bm.png,0,0,0
+1728906025096,306,https://www.demoblaze.com/css/latofonts.css,304,Not Modified,Thread Group 1-3,,true,,165,392,3,3,https://www.demoblaze.com/css/latofonts.css,0,0,0
+1728906025403,203,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,304,Not Modified,Thread Group 1-3,,true,,266,410,3,3,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,0,0,0
+1728906025607,312,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,304,Not Modified,Thread Group 1-3,,true,,165,424,3,3,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,0,0,0
+1728906025920,307,https://hls.demoblaze.com/index.m3u8,304,Not Modified,Thread Group 1-3,,true,,267,396,3,3,https://hls.demoblaze.com/index.m3u8,0,0,0
+1728906026227,221,https://www.demoblaze.com/js/index.js,304,Not Modified,Thread Group 1-3,,true,,165,371,3,3,https://www.demoblaze.com/js/index.js,0,0,0
+1728906026449,224,https://www.demoblaze.com/Samsung1.jpg,304,Not Modified,Thread Group 1-3,,true,,165,433,3,3,https://www.demoblaze.com/Samsung1.jpg,0,0,0
+1728906026674,222,https://www.demoblaze.com/css/fonts/Lato-Regular.woff2,304,Not Modified,Thread Group 1-3,,true,,165,388,3,3,https://www.demoblaze.com/css/fonts/Lato-Regular.woff2,0,0,0
+1728906026896,151,https://www.demoblaze.com/bm.png,304,Not Modified,Thread Group 1-3,,true,,165,427,3,3,https://www.demoblaze.com/bm.png,0,0,0
+1728906027047,243,https://www.demoblaze.com/config.json,304,Not Modified,Thread Group 1-3,,true,,165,448,3,3,https://www.demoblaze.com/config.json,0,0,0
+1728906027290,468,Check,200,OK,Thread Group 1-3,text,true,,298,425,3,3,https://api.demoblaze.com/check,468,0,0
+1728906027759,305,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,304,Not Modified,Thread Group 1-3,,true,,165,401,3,3,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,0,0,0
+1728906028065,226,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,304,Not Modified,Thread Group 1-3,,true,,165,399,3,3,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,0,0,0
+1728906028291,305,https://www.demoblaze.com/favicon.ico,304,Not Modified,Thread Group 1-3,,true,,165,432,3,3,https://www.demoblaze.com/favicon.ico,0,0,0
+1728906028597,294,View,200,OK,Thread Group 1-3,text,true,,432,399,3,3,https://api.demoblaze.com/view,294,0,0
+1728906028892,509,DeleteCart,200,OK,Thread Group 1-3,text,true,,206,421,3,3,https://api.demoblaze.com/deletecart,509,0,0
+1728906029401,302,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,304,Not Modified,Thread Group 1-3,,true,,165,424,3,3,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,0,0,0
+1728906029702,249,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,304,Not Modified,Thread Group 1-3,,true,,266,413,3,3,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,0,0,0
+1728906034204,222,https://www.demoblaze.com/index.html,304,Not Modified,Thread Group 1-3,,true,,165,781,3,3,https://www.demoblaze.com/index.html,0,0,0
+1728906034427,233,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,304,Not Modified,Thread Group 1-3,,true,,165,407,3,3,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,0,0,0
+1728906034661,370,https://www.demoblaze.com/imgs/front.jpg,304,Not Modified,Thread Group 1-3,,true,,165,435,3,3,https://www.demoblaze.com/imgs/front.jpg,0,0,0
+1728906035032,1024,ViewCart,200,OK,Thread Group 1-3,text,true,,203,441,3,3,https://api.demoblaze.com/viewcart,1024,0,559
+1728906036056,258,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,304,Not Modified,Thread Group 1-3,,true,,165,418,3,3,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,0,0,0
+1728906036315,211,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,304,Not Modified,Thread Group 1-3,,true,,165,398,3,3,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,0,0,0
+1728906036527,211,https://www.demoblaze.com/iphone1.jpg,304,Not Modified,Thread Group 1-3,,true,,165,432,3,3,https://www.demoblaze.com/iphone1.jpg,0,0,0
+1728906036739,221,https://www.demoblaze.com/nexus1.jpg,304,Not Modified,Thread Group 1-3,,true,,165,431,3,3,https://www.demoblaze.com/nexus1.jpg,0,0,0
+1728906036960,1,Debug Sampler,200,OK,Thread Group 1-3,text,true,,553,0,3,3,null,0,0,0
+1728906036961,268,AddToCart,200,OK,Thread Group 1-3,text,true,,197,501,3,3,https://api.demoblaze.com/addtocart,268,0,0
+1728906037229,1,Debug Sampler,200,OK,Thread Group 1-3,text,true,,553,0,3,3,null,0,0,0
+1728906037230,230,https://www.demoblaze.com/favicon.ico,304,Not Modified,Thread Group 1-3,,true,,165,432,3,3,https://www.demoblaze.com/favicon.ico,0,0,0
+1728906037461,218,https://www.demoblaze.com/config.json,304,Not Modified,Thread Group 1-3,,true,,165,448,3,3,https://www.demoblaze.com/config.json,0,0,0
+1728906037680,213,https://www.demoblaze.com/bm.png,304,Not Modified,Thread Group 1-3,,true,,165,427,3,3,https://www.demoblaze.com/bm.png,0,0,0
+1728906037893,217,https://www.demoblaze.com/css/fonts/Lato-Regular.woff2,304,Not Modified,Thread Group 1-3,,true,,165,388,3,3,https://www.demoblaze.com/css/fonts/Lato-Regular.woff2,0,0,0
+1728906038111,210,https://www.demoblaze.com/bm.png,304,Not Modified,Thread Group 1-3,,true,,165,427,3,3,https://www.demoblaze.com/bm.png,0,0,0
+1728906038321,260,https://www.demoblaze.com/js/cart.js,304,Not Modified,Thread Group 1-3,,true,,165,370,3,3,https://www.demoblaze.com/js/cart.js,0,0,0
+1728906038581,756,https://www.demoblaze.com/node_modules/bootstrap-sweetalert/dist/sweetalert.min.js,304,Not Modified,Thread Group 1-3,,true,,165,416,3,3,https://www.demoblaze.com/node_modules/bootstrap-sweetalert/dist/sweetalert.min.js,0,0,0
+1728906039338,316,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,304,Not Modified,Thread Group 1-3,,true,,165,407,3,3,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,0,0,0
+1728906039655,137,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,304,Not Modified,Thread Group 1-3,,true,,165,401,3,3,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,0,0,0
+1728906039793,294,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,304,Not Modified,Thread Group 1-3,,true,,165,424,3,3,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,0,0,0
+1728906040088,271,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,304,Not Modified,Thread Group 1-3,,true,,165,399,3,3,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,0,0,0
+1728906040360,232,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,304,Not Modified,Thread Group 1-3,,true,,165,398,3,3,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,0,0,0
+1728906040592,288,https://www.demoblaze.com/imgs/front.jpg,304,Not Modified,Thread Group 1-3,,true,,165,435,3,3,https://www.demoblaze.com/imgs/front.jpg,0,0,0
+1728906040880,394,https://www.demoblaze.com/css/latostyle.css,304,Not Modified,Thread Group 1-3,,true,,165,392,3,3,https://www.demoblaze.com/css/latostyle.css,0,0,0
+1728906041275,268,https://www.demoblaze.com/css/latofonts.css,304,Not Modified,Thread Group 1-3,,true,,165,392,3,3,https://www.demoblaze.com/css/latofonts.css,0,0,0
+1728906041544,351,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,304,Not Modified,Thread Group 1-3,,true,,165,418,3,3,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,0,0,0
+1728906041897,298,https://www.demoblaze.com/node_modules/bootstrap-sweetalert/dist/sweetalert.css,304,Not Modified,Thread Group 1-3,,true,,165,428,3,3,https://www.demoblaze.com/node_modules/bootstrap-sweetalert/dist/sweetalert.css,0,0,0
+1728906042196,252,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,304,Not Modified,Thread Group 1-3,,true,,165,424,3,3,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,0,0,0
+1728906042743,229,https://www.demoblaze.com/cart.html,304,Not Modified,Thread Group 1-3,,true,,165,780,3,3,https://www.demoblaze.com/cart.html,0,0,0
+1728906042972,350,https://www.demoblaze.com/favicon.ico,304,Not Modified,Thread Group 1-3,,true,,165,432,3,3,https://www.demoblaze.com/favicon.ico,0,0,0
+1728906043323,351,https://www.demoblaze.com/css/latostyle.css,304,Not Modified,Thread Group 1-3,,true,,165,392,3,3,https://www.demoblaze.com/css/latostyle.css,0,0,0
+1728906043674,365,https://www.demoblaze.com/imgs/Lumia_1520.jpg,304,Not Modified,Thread Group 1-3,,true,,165,440,3,3,https://www.demoblaze.com/imgs/Lumia_1520.jpg,0,0,0
+1728906044040,306,https://www.demoblaze.com/bm.png,304,Not Modified,Thread Group 1-3,,true,,165,427,3,3,https://www.demoblaze.com/bm.png,0,0,0
+1728906044347,218,https://www.demoblaze.com/css/latofonts.css,304,Not Modified,Thread Group 1-3,,true,,165,392,3,3,https://www.demoblaze.com/css/latofonts.css,0,0,0
+1728906044565,262,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,304,Not Modified,Thread Group 1-3,,true,,266,410,3,3,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,0,0,188
+1728906044828,219,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,304,Not Modified,Thread Group 1-3,,true,,165,424,3,3,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,0,0,0
+1728906045047,79,https://hls.demoblaze.com/index.m3u8,304,Not Modified,Thread Group 1-3,,true,,266,396,3,3,https://hls.demoblaze.com/index.m3u8,0,0,0
+1728906045127,221,https://www.demoblaze.com/js/index.js,304,Not Modified,Thread Group 1-3,,true,,165,371,3,3,https://www.demoblaze.com/js/index.js,0,0,0
+1728906045348,224,https://www.demoblaze.com/Samsung1.jpg,304,Not Modified,Thread Group 1-3,,true,,165,433,3,3,https://www.demoblaze.com/Samsung1.jpg,0,0,0
+1728906045573,219,https://www.demoblaze.com/css/fonts/Lato-Regular.woff2,304,Not Modified,Thread Group 1-3,,true,,165,388,3,3,https://www.demoblaze.com/css/fonts/Lato-Regular.woff2,0,0,0
+1728906045793,231,https://www.demoblaze.com/bm.png,304,Not Modified,Thread Group 1-3,,true,,165,427,3,3,https://www.demoblaze.com/bm.png,0,0,0
+1728906046025,220,https://www.demoblaze.com/config.json,304,Not Modified,Thread Group 1-3,,true,,165,448,3,3,https://www.demoblaze.com/config.json,0,0,0
+1728906046246,563,Check,200,OK,Thread Group 1-3,text,true,,298,425,3,3,https://api.demoblaze.com/check,563,0,0
+1728906046809,300,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,304,Not Modified,Thread Group 1-3,,true,,165,401,3,3,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,0,0,0
+1728906047110,306,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,304,Not Modified,Thread Group 1-3,,true,,165,399,3,3,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,0,0,0
+1728906047417,221,https://www.demoblaze.com/favicon.ico,304,Not Modified,Thread Group 1-3,,true,,165,432,3,3,https://www.demoblaze.com/favicon.ico,0,0,0
+1728906047639,559,View,200,OK,Thread Group 1-3,text,true,,432,399,3,3,https://api.demoblaze.com/view,559,0,0
+1728906048199,557,DeleteCart,200,OK,Thread Group 1-3,text,true,,206,421,3,3,https://api.demoblaze.com/deletecart,557,0,0
+1728906048757,298,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,304,Not Modified,Thread Group 1-3,,true,,165,424,3,3,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,0,0,0
+1728906049056,228,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,304,Not Modified,Thread Group 1-3,,true,,266,413,3,3,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,0,0,0
+1728906062219,359,https://www.demoblaze.com/index.html,304,Not Modified,Thread Group 1-3,,true,,165,781,3,3,https://www.demoblaze.com/index.html,0,0,0
+1728906062578,235,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,304,Not Modified,Thread Group 1-3,,true,,165,407,3,3,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,0,0,0
+1728906062813,173,https://www.demoblaze.com/imgs/front.jpg,304,Not Modified,Thread Group 1-3,,true,,165,435,3,3,https://www.demoblaze.com/imgs/front.jpg,0,0,0
+1728906062987,1437,ViewCart,200,OK,Thread Group 1-3,text,true,,203,441,3,3,https://api.demoblaze.com/viewcart,1437,0,0
+1728906064425,285,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,304,Not Modified,Thread Group 1-3,,true,,165,418,3,3,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,0,0,0
+1728906064710,224,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,304,Not Modified,Thread Group 1-3,,true,,165,398,3,3,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,0,0,0
+1728906064934,228,https://www.demoblaze.com/iphone1.jpg,304,Not Modified,Thread Group 1-3,,true,,165,432,3,3,https://www.demoblaze.com/iphone1.jpg,0,0,0
+1728906065162,254,https://www.demoblaze.com/nexus1.jpg,304,Not Modified,Thread Group 1-3,,true,,165,431,3,3,https://www.demoblaze.com/nexus1.jpg,0,0,0
+1728906065417,0,Debug Sampler,200,OK,Thread Group 1-3,text,true,,553,0,3,3,null,0,0,0
+1728906065421,23267,Transaction Controller Checkout,200,"Number of samples in transaction : 36, number of failing samples : 0",Thread Group 1-3,,true,,15546,15168,3,3,null,0,3219,422
+1728906065421,1928,https://api.demoblaze.com/check,200,OK,Thread Group 1-3,text,true,,298,425,3,3,https://api.demoblaze.com/check,1928,0,0
+1728906067349,1161,https://api.demoblaze.com/entries,200,OK,Thread Group 1-3,text,true,,2931,342,3,3,https://api.demoblaze.com/entries,1146,0,0
+1728906068511,97,https://hls.demoblaze.com/index.m3u8,304,Not Modified,Thread Group 1-3,,true,,266,396,3,3,https://hls.demoblaze.com/index.m3u8,0,0,0
+1728906068609,342,https://www.demoblaze.com/imgs/galaxy_s6.jpg,304,Not Modified,Thread Group 1-3,,true,,165,439,3,3,https://www.demoblaze.com/imgs/galaxy_s6.jpg,0,0,0
+1728906068951,286,https://www.demoblaze.com/imgs/Lumia_1520.jpg,304,Not Modified,Thread Group 1-3,,true,,165,440,3,3,https://www.demoblaze.com/imgs/Lumia_1520.jpg,0,0,0
+1728906069238,297,https://www.demoblaze.com/imgs/Nexus_6.jpg,304,Not Modified,Thread Group 1-3,,true,,165,437,3,3,https://www.demoblaze.com/imgs/Nexus_6.jpg,0,0,0
+1728906069536,314,https://www.demoblaze.com/imgs/iphone_6.jpg,304,Not Modified,Thread Group 1-3,,true,,165,438,3,3,https://www.demoblaze.com/imgs/iphone_6.jpg,0,0,0
+1728906069851,304,https://www.demoblaze.com/imgs/xperia_z5.jpg,304,Not Modified,Thread Group 1-3,,true,,165,439,3,3,https://www.demoblaze.com/imgs/xperia_z5.jpg,0,0,0
+1728906070155,311,https://www.demoblaze.com/imgs/HTC_M9.jpg,304,Not Modified,Thread Group 1-3,,true,,165,436,3,3,https://www.demoblaze.com/imgs/HTC_M9.jpg,0,0,0
+1728906070466,335,https://www.demoblaze.com/imgs/sony_vaio_5.jpg,304,Not Modified,Thread Group 1-3,,true,,165,441,3,3,https://www.demoblaze.com/imgs/sony_vaio_5.jpg,0,0,0
+1728906070802,167,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,304,Not Modified,Thread Group 1-3,,true,,266,410,3,3,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,0,0,0
+1728906070970,306,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,304,Not Modified,Thread Group 1-3,,true,,266,413,3,3,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,0,0,0
+1728906072301,1235,https://api.demoblaze.com/check,200,OK,Thread Group 1-3,text,true,,298,425,3,3,https://api.demoblaze.com/check,1235,0,0
+1728906073537,3179,https://api.demoblaze.com/entries,200,OK,Thread Group 1-3,text,true,,2931,342,3,3,https://api.demoblaze.com/entries,3179,0,0
+1728906076717,293,https://hls.demoblaze.com/index.m3u8,304,Not Modified,Thread Group 1-3,,true,,266,396,3,3,https://hls.demoblaze.com/index.m3u8,0,0,0
+1728906077010,762,https://www.demoblaze.com/imgs/galaxy_s6.jpg,304,Not Modified,Thread Group 1-3,,true,,165,439,3,3,https://www.demoblaze.com/imgs/galaxy_s6.jpg,0,0,422
+1728906077773,266,https://www.demoblaze.com/imgs/Lumia_1520.jpg,304,Not Modified,Thread Group 1-3,,true,,165,440,3,3,https://www.demoblaze.com/imgs/Lumia_1520.jpg,0,0,0
+1728906078040,244,https://www.demoblaze.com/imgs/Nexus_6.jpg,304,Not Modified,Thread Group 1-3,,true,,165,437,3,3,https://www.demoblaze.com/imgs/Nexus_6.jpg,0,0,0
+1728906078284,372,https://www.demoblaze.com/imgs/iphone_6.jpg,304,Not Modified,Thread Group 1-3,,true,,165,438,3,3,https://www.demoblaze.com/imgs/iphone_6.jpg,0,0,0
+1728906078657,401,https://www.demoblaze.com/imgs/xperia_z5.jpg,304,Not Modified,Thread Group 1-3,,true,,165,439,3,3,https://www.demoblaze.com/imgs/xperia_z5.jpg,0,0,0
+1728906079059,248,https://www.demoblaze.com/imgs/HTC_M9.jpg,304,Not Modified,Thread Group 1-3,,true,,165,436,3,3,https://www.demoblaze.com/imgs/HTC_M9.jpg,0,0,0
+1728906079308,278,https://www.demoblaze.com/imgs/sony_vaio_5.jpg,304,Not Modified,Thread Group 1-3,,true,,165,441,3,3,https://www.demoblaze.com/imgs/sony_vaio_5.jpg,0,0,0
+1728906079587,232,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,304,Not Modified,Thread Group 1-3,,true,,266,410,3,3,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,0,0,0
+1728906079820,165,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,304,Not Modified,Thread Group 1-3,,true,,266,413,3,3,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,0,0,0
+1728906081084,1359,https://api.demoblaze.com/check,200,OK,Thread Group 1-3,text,true,,298,425,3,3,https://api.demoblaze.com/check,1359,0,0
+1728906082443,5122,https://api.demoblaze.com/entries,200,OK,Thread Group 1-3,text,true,,2931,342,3,3,https://api.demoblaze.com/entries,5122,0,0
+1728906087566,240,https://hls.demoblaze.com/index.m3u8,304,Not Modified,Thread Group 1-3,,true,,266,396,3,3,https://hls.demoblaze.com/index.m3u8,0,0,0
+1728906087807,368,https://www.demoblaze.com/imgs/galaxy_s6.jpg,304,Not Modified,Thread Group 1-3,,true,,165,439,3,3,https://www.demoblaze.com/imgs/galaxy_s6.jpg,0,0,0
+1728906088176,234,https://www.demoblaze.com/imgs/Lumia_1520.jpg,304,Not Modified,Thread Group 1-3,,true,,165,440,3,3,https://www.demoblaze.com/imgs/Lumia_1520.jpg,0,0,0
+1728906088410,235,https://www.demoblaze.com/imgs/Nexus_6.jpg,304,Not Modified,Thread Group 1-3,,true,,165,437,3,3,https://www.demoblaze.com/imgs/Nexus_6.jpg,0,0,0
+1728906088646,551,https://www.demoblaze.com/imgs/iphone_6.jpg,304,Not Modified,Thread Group 1-3,,true,,165,438,3,3,https://www.demoblaze.com/imgs/iphone_6.jpg,0,0,0
+1728906089197,516,https://www.demoblaze.com/imgs/xperia_z5.jpg,304,Not Modified,Thread Group 1-3,,true,,165,439,3,3,https://www.demoblaze.com/imgs/xperia_z5.jpg,0,0,0
+1728906089714,236,https://www.demoblaze.com/imgs/HTC_M9.jpg,304,Not Modified,Thread Group 1-3,,true,,165,436,3,3,https://www.demoblaze.com/imgs/HTC_M9.jpg,0,0,0
+1728906089950,373,https://www.demoblaze.com/imgs/sony_vaio_5.jpg,304,Not Modified,Thread Group 1-3,,true,,165,441,3,3,https://www.demoblaze.com/imgs/sony_vaio_5.jpg,0,0,0
+1728906090324,214,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,304,Not Modified,Thread Group 1-3,,true,,266,410,3,3,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,0,0,0
+1728906090539,296,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,304,Not Modified,Thread Group 1-3,,true,,266,413,3,3,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,0,0,0
+1728906091909,0,Debug Sampler,200,OK,Thread Group 1-3,text,true,,552,0,3,3,null,0,0,0
+1728906063040,41419,Transaction Controller Checkout,200,"Number of samples in transaction : 36, number of failing samples : 0",Thread Group 1-2,,true,,15549,15168,2,2,null,0,3148,684
+1728906063041,2170,https://api.demoblaze.com/check,200,OK,Thread Group 1-2,text,true,,298,425,3,3,https://api.demoblaze.com/check,2170,0,0
+1728906065212,1172,https://api.demoblaze.com/entries,200,OK,Thread Group 1-2,text,true,,2931,342,3,3,https://api.demoblaze.com/entries,1164,0,0
+1728906066385,331,https://hls.demoblaze.com/index.m3u8,304,Not Modified,Thread Group 1-2,,true,,267,396,3,3,https://hls.demoblaze.com/index.m3u8,0,0,0
+1728906066717,264,https://www.demoblaze.com/imgs/galaxy_s6.jpg,304,Not Modified,Thread Group 1-2,,true,,165,439,3,3,https://www.demoblaze.com/imgs/galaxy_s6.jpg,0,0,0
+1728906066981,240,https://www.demoblaze.com/imgs/Lumia_1520.jpg,304,Not Modified,Thread Group 1-2,,true,,165,440,3,3,https://www.demoblaze.com/imgs/Lumia_1520.jpg,0,0,0
+1728906067222,271,https://www.demoblaze.com/imgs/Nexus_6.jpg,304,Not Modified,Thread Group 1-2,,true,,165,437,3,3,https://www.demoblaze.com/imgs/Nexus_6.jpg,0,0,0
+1728906067494,246,https://www.demoblaze.com/imgs/iphone_6.jpg,304,Not Modified,Thread Group 1-2,,true,,165,438,3,3,https://www.demoblaze.com/imgs/iphone_6.jpg,0,0,0
+1728906067741,220,https://www.demoblaze.com/imgs/xperia_z5.jpg,304,Not Modified,Thread Group 1-2,,true,,165,439,3,3,https://www.demoblaze.com/imgs/xperia_z5.jpg,0,0,0
+1728906067962,227,https://www.demoblaze.com/imgs/HTC_M9.jpg,304,Not Modified,Thread Group 1-2,,true,,165,436,3,3,https://www.demoblaze.com/imgs/HTC_M9.jpg,0,0,0
+1728906068190,231,https://www.demoblaze.com/imgs/sony_vaio_5.jpg,304,Not Modified,Thread Group 1-2,,true,,165,441,3,3,https://www.demoblaze.com/imgs/sony_vaio_5.jpg,0,0,0
+1728906068422,80,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,304,Not Modified,Thread Group 1-2,,true,,266,410,3,3,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,0,0,0
+1728906068503,81,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,304,Not Modified,Thread Group 1-2,,true,,266,413,3,3,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,0,0,0
+1728906069652,7878,https://api.demoblaze.com/check,200,OK,Thread Group 1-2,text,true,,298,425,3,3,https://api.demoblaze.com/check,7878,0,0
+1728906077531,3996,https://api.demoblaze.com/entries,200,OK,Thread Group 1-2,text,true,,2931,342,3,3,https://api.demoblaze.com/entries,3995,0,0
+1728906081527,238,https://hls.demoblaze.com/index.m3u8,304,Not Modified,Thread Group 1-2,,true,,267,396,3,3,https://hls.demoblaze.com/index.m3u8,0,0,0
+1728906081765,1050,https://www.demoblaze.com/imgs/galaxy_s6.jpg,304,Not Modified,Thread Group 1-2,,true,,165,439,3,3,https://www.demoblaze.com/imgs/galaxy_s6.jpg,0,0,684
+1728906082816,382,https://www.demoblaze.com/imgs/Lumia_1520.jpg,304,Not Modified,Thread Group 1-2,,true,,165,440,3,3,https://www.demoblaze.com/imgs/Lumia_1520.jpg,0,0,0
+1728906083199,168,https://www.demoblaze.com/imgs/Nexus_6.jpg,304,Not Modified,Thread Group 1-2,,true,,165,437,3,3,https://www.demoblaze.com/imgs/Nexus_6.jpg,0,0,0
+1728906083367,208,https://www.demoblaze.com/imgs/iphone_6.jpg,304,Not Modified,Thread Group 1-2,,true,,165,438,3,3,https://www.demoblaze.com/imgs/iphone_6.jpg,0,0,0
+1728906083576,504,https://www.demoblaze.com/imgs/xperia_z5.jpg,304,Not Modified,Thread Group 1-2,,true,,165,439,3,3,https://www.demoblaze.com/imgs/xperia_z5.jpg,0,0,0
+1728906084081,244,https://www.demoblaze.com/imgs/HTC_M9.jpg,304,Not Modified,Thread Group 1-2,,true,,165,436,3,3,https://www.demoblaze.com/imgs/HTC_M9.jpg,0,0,0
+1728906084326,364,https://www.demoblaze.com/imgs/sony_vaio_5.jpg,304,Not Modified,Thread Group 1-2,,true,,165,441,3,3,https://www.demoblaze.com/imgs/sony_vaio_5.jpg,0,0,0
+1728906084690,415,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,304,Not Modified,Thread Group 1-2,,true,,266,410,3,3,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,0,0,0
+1728906085106,209,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,304,Not Modified,Thread Group 1-2,,true,,266,413,3,3,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,0,0,0
+1728906086367,5298,https://api.demoblaze.com/check,200,OK,Thread Group 1-2,text,true,,298,425,3,3,https://api.demoblaze.com/check,5298,0,0
+1728906091667,11156,https://api.demoblaze.com/entries,200,OK,Thread Group 1-2,text,true,,2931,342,2,2,https://api.demoblaze.com/entries,11156,0,0
+1728906102823,216,https://hls.demoblaze.com/index.m3u8,304,Not Modified,Thread Group 1-2,,true,,267,396,2,2,https://hls.demoblaze.com/index.m3u8,0,0,0
+1728906103040,308,https://www.demoblaze.com/imgs/galaxy_s6.jpg,304,Not Modified,Thread Group 1-2,,true,,165,439,2,2,https://www.demoblaze.com/imgs/galaxy_s6.jpg,0,0,0
+1728906103348,247,https://www.demoblaze.com/imgs/Lumia_1520.jpg,304,Not Modified,Thread Group 1-2,,true,,165,440,2,2,https://www.demoblaze.com/imgs/Lumia_1520.jpg,0,0,0
+1728906103596,390,https://www.demoblaze.com/imgs/Nexus_6.jpg,304,Not Modified,Thread Group 1-2,,true,,165,437,2,2,https://www.demoblaze.com/imgs/Nexus_6.jpg,0,0,0
+1728906103986,467,https://www.demoblaze.com/imgs/iphone_6.jpg,304,Not Modified,Thread Group 1-2,,true,,165,438,2,2,https://www.demoblaze.com/imgs/iphone_6.jpg,0,0,0
+1728906104454,409,https://www.demoblaze.com/imgs/xperia_z5.jpg,304,Not Modified,Thread Group 1-2,,true,,165,439,2,2,https://www.demoblaze.com/imgs/xperia_z5.jpg,0,0,0
+1728906104864,226,https://www.demoblaze.com/imgs/HTC_M9.jpg,304,Not Modified,Thread Group 1-2,,true,,165,436,2,2,https://www.demoblaze.com/imgs/HTC_M9.jpg,0,0,0
+1728906105091,1005,https://www.demoblaze.com/imgs/sony_vaio_5.jpg,304,Not Modified,Thread Group 1-2,,true,,165,441,2,2,https://www.demoblaze.com/imgs/sony_vaio_5.jpg,0,0,0
+1728906106097,211,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,304,Not Modified,Thread Group 1-2,,true,,266,410,2,2,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,0,0,0
+1728906106308,297,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,304,Not Modified,Thread Group 1-2,,true,,266,413,2,2,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,0,0,0
+1728906107610,0,Debug Sampler,200,OK,Thread Group 1-2,text,true,,553,0,2,2,null,0,0,0
+1728905981791,59819,Transaction Controller Add To Cart,200,"Number of samples in transaction : 153, number of failing samples : 0",Thread Group 1-1,,true,,66826,63332,1,1,null,0,67963,1192
+1728905981792,404,AddToCart,200,OK,Thread Group 1-1,text,true,,197,501,3,3,https://api.demoblaze.com/addtocart,404,0,0
+1728905982197,0,Debug Sampler,200,OK,Thread Group 1-1,text,true,,553,0,3,3,null,0,0,0
+1728905982198,200,https://www.demoblaze.com/favicon.ico,304,Not Modified,Thread Group 1-1,,true,,165,432,3,3,https://www.demoblaze.com/favicon.ico,0,0,0
+1728905982399,217,https://www.demoblaze.com/config.json,304,Not Modified,Thread Group 1-1,,true,,165,448,3,3,https://www.demoblaze.com/config.json,0,0,0
+1728905982618,209,https://www.demoblaze.com/bm.png,304,Not Modified,Thread Group 1-1,,true,,165,427,3,3,https://www.demoblaze.com/bm.png,0,0,0
+1728905982827,216,https://www.demoblaze.com/css/fonts/Lato-Regular.woff2,304,Not Modified,Thread Group 1-1,,true,,165,388,3,3,https://www.demoblaze.com/css/fonts/Lato-Regular.woff2,0,0,0
+1728905983044,204,https://www.demoblaze.com/bm.png,304,Not Modified,Thread Group 1-1,,true,,165,427,3,3,https://www.demoblaze.com/bm.png,0,0,0
+1728905983249,217,https://www.demoblaze.com/js/cart.js,200,OK,Thread Group 1-1,text,true,,2985,345,3,3,https://www.demoblaze.com/js/cart.js,216,0,0
+1728905983468,228,https://www.demoblaze.com/node_modules/bootstrap-sweetalert/dist/sweetalert.min.js,200,OK,Thread Group 1-1,text,true,,6446,391,3,3,https://www.demoblaze.com/node_modules/bootstrap-sweetalert/dist/sweetalert.min.js,210,0,0
+1728905983697,211,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,304,Not Modified,Thread Group 1-1,,true,,165,407,3,3,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,0,0,0
+1728905983909,97,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,304,Not Modified,Thread Group 1-1,,true,,165,401,3,3,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,0,0,0
+1728905984007,213,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,304,Not Modified,Thread Group 1-1,,true,,165,424,3,3,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,0,0,0
+1728905984221,162,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,304,Not Modified,Thread Group 1-1,,true,,165,399,3,3,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,0,0,0
+1728905984384,269,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,304,Not Modified,Thread Group 1-1,,true,,165,398,3,3,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,0,0,0
+1728905984655,228,https://www.demoblaze.com/imgs/front.jpg,304,Not Modified,Thread Group 1-1,,true,,165,435,3,3,https://www.demoblaze.com/imgs/front.jpg,0,0,0
+1728905984884,276,https://www.demoblaze.com/css/latostyle.css,304,Not Modified,Thread Group 1-1,,true,,165,392,3,3,https://www.demoblaze.com/css/latostyle.css,0,0,0
+1728905985161,310,https://www.demoblaze.com/css/latofonts.css,304,Not Modified,Thread Group 1-1,,true,,165,392,3,3,https://www.demoblaze.com/css/latofonts.css,0,0,0
+1728905985472,230,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,304,Not Modified,Thread Group 1-1,,true,,165,418,3,3,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,0,0,0
+1728905985703,384,https://www.demoblaze.com/node_modules/bootstrap-sweetalert/dist/sweetalert.css,200,OK,Thread Group 1-1,text,true,,3434,403,3,3,https://www.demoblaze.com/node_modules/bootstrap-sweetalert/dist/sweetalert.css,383,0,0
+1728905986088,205,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,304,Not Modified,Thread Group 1-1,,true,,165,424,3,3,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,0,0,0
+1728905991229,586,https://www.demoblaze.com/cart.html,200,OK,Thread Group 1-1,text,true,,24602,755,3,3,https://www.demoblaze.com/cart.html,288,0,0
+1728905991816,222,https://www.demoblaze.com/favicon.ico,304,Not Modified,Thread Group 1-1,,true,,165,432,3,3,https://www.demoblaze.com/favicon.ico,0,0,0
+1728905992039,221,https://www.demoblaze.com/css/latostyle.css,304,Not Modified,Thread Group 1-1,,true,,165,392,3,3,https://www.demoblaze.com/css/latostyle.css,0,0,0
+1728905992261,322,https://www.demoblaze.com/imgs/Lumia_1520.jpg,304,Not Modified,Thread Group 1-1,,true,,165,440,3,3,https://www.demoblaze.com/imgs/Lumia_1520.jpg,0,0,0
+1728905992584,159,https://www.demoblaze.com/bm.png,304,Not Modified,Thread Group 1-1,,true,,165,427,3,3,https://www.demoblaze.com/bm.png,0,0,0
+1728905992744,314,https://www.demoblaze.com/css/latofonts.css,304,Not Modified,Thread Group 1-1,,true,,165,392,3,3,https://www.demoblaze.com/css/latofonts.css,0,0,0
+1728905993059,197,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,304,Not Modified,Thread Group 1-1,,true,,266,410,3,3,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,0,0,0
+1728905993257,343,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,304,Not Modified,Thread Group 1-1,,true,,165,424,3,3,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,0,0,0
+1728905993601,267,https://hls.demoblaze.com/index.m3u8,304,Not Modified,Thread Group 1-1,,true,,266,396,3,3,https://hls.demoblaze.com/index.m3u8,0,0,0
+1728905993869,249,https://www.demoblaze.com/js/index.js,304,Not Modified,Thread Group 1-1,,true,,165,371,3,3,https://www.demoblaze.com/js/index.js,0,0,0
+1728905994119,262,https://www.demoblaze.com/Samsung1.jpg,304,Not Modified,Thread Group 1-1,,true,,165,433,3,3,https://www.demoblaze.com/Samsung1.jpg,0,0,0
+1728905994382,403,https://www.demoblaze.com/css/fonts/Lato-Regular.woff2,304,Not Modified,Thread Group 1-1,,true,,165,388,3,3,https://www.demoblaze.com/css/fonts/Lato-Regular.woff2,0,0,0
+1728905994786,267,https://www.demoblaze.com/bm.png,304,Not Modified,Thread Group 1-1,,true,,165,427,3,3,https://www.demoblaze.com/bm.png,0,0,0
+1728905995054,286,https://www.demoblaze.com/config.json,304,Not Modified,Thread Group 1-1,,true,,165,448,3,3,https://www.demoblaze.com/config.json,0,0,0
+1728905995341,368,Check,200,OK,Thread Group 1-1,text,true,,298,425,3,3,https://api.demoblaze.com/check,368,0,0
+1728905995710,206,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,304,Not Modified,Thread Group 1-1,,true,,165,401,3,3,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,0,0,0
+1728905995917,210,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,304,Not Modified,Thread Group 1-1,,true,,165,399,3,3,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,0,0,0
+1728905996128,246,https://www.demoblaze.com/favicon.ico,304,Not Modified,Thread Group 1-1,,true,,165,432,3,3,https://www.demoblaze.com/favicon.ico,0,0,0
+1728905996375,257,View,200,OK,Thread Group 1-1,text,true,,432,399,3,3,https://api.demoblaze.com/view,257,0,0
+1728905996633,314,DeleteCart,200,OK,Thread Group 1-1,text,true,,206,421,3,3,https://api.demoblaze.com/deletecart,314,0,0
+1728905996947,262,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,304,Not Modified,Thread Group 1-1,,true,,165,424,3,3,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,0,0,0
+1728905997211,177,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,304,Not Modified,Thread Group 1-1,,true,,266,413,3,3,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,0,0,0
+1728906019440,421,https://www.demoblaze.com/index.html,304,Not Modified,Thread Group 1-1,,true,,165,781,3,3,https://www.demoblaze.com/index.html,0,0,195
+1728906019862,221,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,304,Not Modified,Thread Group 1-1,,true,,165,407,3,3,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,0,0,0
+1728906020084,225,https://www.demoblaze.com/imgs/front.jpg,304,Not Modified,Thread Group 1-1,,true,,165,435,3,3,https://www.demoblaze.com/imgs/front.jpg,0,0,0
+1728906020309,489,ViewCart,200,OK,Thread Group 1-1,text,true,,203,441,3,3,https://api.demoblaze.com/viewcart,489,0,0
+1728906020799,113,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,304,Not Modified,Thread Group 1-1,,true,,165,418,3,3,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,0,0,0
+1728906020913,392,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,304,Not Modified,Thread Group 1-1,,true,,165,398,3,3,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,0,0,0
+1728906021306,408,https://www.demoblaze.com/iphone1.jpg,304,Not Modified,Thread Group 1-1,,true,,165,432,3,3,https://www.demoblaze.com/iphone1.jpg,0,0,0
+1728906021715,314,https://www.demoblaze.com/nexus1.jpg,304,Not Modified,Thread Group 1-1,,true,,165,431,3,3,https://www.demoblaze.com/nexus1.jpg,0,0,0
+1728906022030,0,Debug Sampler,200,OK,Thread Group 1-1,text,true,,553,0,3,3,null,0,0,0
+1728906022031,488,AddToCart,200,OK,Thread Group 1-1,text,true,,201,501,3,3,https://api.demoblaze.com/addtocart,488,0,0
+1728906022520,0,Debug Sampler,200,OK,Thread Group 1-1,text,true,,553,0,3,3,null,0,0,0
+1728906022520,218,https://www.demoblaze.com/favicon.ico,304,Not Modified,Thread Group 1-1,,true,,165,432,3,3,https://www.demoblaze.com/favicon.ico,0,0,0
+1728906022739,231,https://www.demoblaze.com/config.json,304,Not Modified,Thread Group 1-1,,true,,165,448,3,3,https://www.demoblaze.com/config.json,0,0,0
+1728906022970,188,https://www.demoblaze.com/bm.png,304,Not Modified,Thread Group 1-1,,true,,165,427,3,3,https://www.demoblaze.com/bm.png,0,0,0
+1728906023158,297,https://www.demoblaze.com/css/fonts/Lato-Regular.woff2,304,Not Modified,Thread Group 1-1,,true,,165,388,3,3,https://www.demoblaze.com/css/fonts/Lato-Regular.woff2,0,0,0
+1728906023456,226,https://www.demoblaze.com/bm.png,304,Not Modified,Thread Group 1-1,,true,,165,427,3,3,https://www.demoblaze.com/bm.png,0,0,0
+1728906023683,188,https://www.demoblaze.com/js/cart.js,304,Not Modified,Thread Group 1-1,,true,,165,370,3,3,https://www.demoblaze.com/js/cart.js,0,0,0
+1728906023872,302,https://www.demoblaze.com/node_modules/bootstrap-sweetalert/dist/sweetalert.min.js,304,Not Modified,Thread Group 1-1,,true,,165,416,3,3,https://www.demoblaze.com/node_modules/bootstrap-sweetalert/dist/sweetalert.min.js,0,0,0
+1728906024175,139,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,304,Not Modified,Thread Group 1-1,,true,,165,407,3,3,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,0,0,0
+1728906024315,298,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,304,Not Modified,Thread Group 1-1,,true,,165,401,3,3,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,0,0,0
+1728906024615,209,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,304,Not Modified,Thread Group 1-1,,true,,165,424,3,3,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,0,0,0
+1728906024824,271,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,304,Not Modified,Thread Group 1-1,,true,,165,399,3,3,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,0,0,0
+1728906025096,306,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,304,Not Modified,Thread Group 1-1,,true,,165,398,3,3,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,0,0,0
+1728906025403,250,https://www.demoblaze.com/imgs/front.jpg,304,Not Modified,Thread Group 1-1,,true,,165,435,3,3,https://www.demoblaze.com/imgs/front.jpg,0,0,0
+1728906025653,268,https://www.demoblaze.com/css/latostyle.css,304,Not Modified,Thread Group 1-1,,true,,165,392,3,3,https://www.demoblaze.com/css/latostyle.css,0,0,0
+1728906025922,305,https://www.demoblaze.com/css/latofonts.css,304,Not Modified,Thread Group 1-1,,true,,165,392,3,3,https://www.demoblaze.com/css/latofonts.css,0,0,0
+1728906026228,220,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,304,Not Modified,Thread Group 1-1,,true,,165,418,3,3,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,0,0,0
+1728906026449,224,https://www.demoblaze.com/node_modules/bootstrap-sweetalert/dist/sweetalert.css,304,Not Modified,Thread Group 1-1,,true,,165,428,3,3,https://www.demoblaze.com/node_modules/bootstrap-sweetalert/dist/sweetalert.css,0,0,0
+1728906026674,172,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,304,Not Modified,Thread Group 1-1,,true,,165,424,3,3,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,0,0,0
+1728906032027,243,https://www.demoblaze.com/cart.html,304,Not Modified,Thread Group 1-1,,true,,165,780,3,3,https://www.demoblaze.com/cart.html,0,0,0
+1728906032271,230,https://www.demoblaze.com/favicon.ico,304,Not Modified,Thread Group 1-1,,true,,165,432,3,3,https://www.demoblaze.com/favicon.ico,0,0,0
+1728906032502,282,https://www.demoblaze.com/css/latostyle.css,304,Not Modified,Thread Group 1-1,,true,,165,392,3,3,https://www.demoblaze.com/css/latostyle.css,0,0,0
+1728906032785,239,https://www.demoblaze.com/imgs/Lumia_1520.jpg,304,Not Modified,Thread Group 1-1,,true,,165,440,3,3,https://www.demoblaze.com/imgs/Lumia_1520.jpg,0,0,0
+1728906033025,367,https://www.demoblaze.com/bm.png,304,Not Modified,Thread Group 1-1,,true,,165,427,3,3,https://www.demoblaze.com/bm.png,0,0,0
+1728906033393,244,https://www.demoblaze.com/css/latofonts.css,304,Not Modified,Thread Group 1-1,,true,,165,392,3,3,https://www.demoblaze.com/css/latofonts.css,0,0,0
+1728906033638,168,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,304,Not Modified,Thread Group 1-1,,true,,266,410,3,3,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,0,0,0
+1728906033807,297,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,304,Not Modified,Thread Group 1-1,,true,,165,424,3,3,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,0,0,0
+1728906034105,88,https://hls.demoblaze.com/index.m3u8,304,Not Modified,Thread Group 1-1,,true,,266,396,3,3,https://hls.demoblaze.com/index.m3u8,0,0,0
+1728906034194,223,https://www.demoblaze.com/js/index.js,304,Not Modified,Thread Group 1-1,,true,,165,371,3,3,https://www.demoblaze.com/js/index.js,0,0,0
+1728906034418,228,https://www.demoblaze.com/Samsung1.jpg,304,Not Modified,Thread Group 1-1,,true,,165,433,3,3,https://www.demoblaze.com/Samsung1.jpg,0,0,0
+1728906034646,385,https://www.demoblaze.com/css/fonts/Lato-Regular.woff2,304,Not Modified,Thread Group 1-1,,true,,165,388,3,3,https://www.demoblaze.com/css/fonts/Lato-Regular.woff2,0,0,0
+1728906035032,307,https://www.demoblaze.com/bm.png,304,Not Modified,Thread Group 1-1,,true,,165,427,3,3,https://www.demoblaze.com/bm.png,0,0,0
+1728906035340,243,https://www.demoblaze.com/config.json,304,Not Modified,Thread Group 1-1,,true,,165,448,3,3,https://www.demoblaze.com/config.json,0,0,0
+1728906035583,473,Check,200,OK,Thread Group 1-1,text,true,,298,425,3,3,https://api.demoblaze.com/check,473,0,0
+1728906036057,257,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,304,Not Modified,Thread Group 1-1,,true,,165,401,3,3,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,0,0,0
+1728906036315,190,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,304,Not Modified,Thread Group 1-1,,true,,165,399,3,3,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,0,0,0
+1728906036506,228,https://www.demoblaze.com/favicon.ico,304,Not Modified,Thread Group 1-1,,true,,165,432,3,3,https://www.demoblaze.com/favicon.ico,0,0,0
+1728906036735,214,View,200,OK,Thread Group 1-1,text,true,,432,399,3,3,https://api.demoblaze.com/view,214,0,0
+1728906036949,286,DeleteCart,200,OK,Thread Group 1-1,text,true,,206,421,3,3,https://api.demoblaze.com/deletecart,286,0,0
+1728906037235,225,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,304,Not Modified,Thread Group 1-1,,true,,165,424,3,3,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,0,0,0
+1728906037461,90,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,304,Not Modified,Thread Group 1-1,,true,,266,413,3,3,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,0,0,0
+1728906039784,168,https://www.demoblaze.com/index.html,304,Not Modified,Thread Group 1-1,,true,,165,781,3,3,https://www.demoblaze.com/index.html,0,0,0
+1728906039953,406,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,304,Not Modified,Thread Group 1-1,,true,,165,407,3,3,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,0,0,0
+1728906040360,232,https://www.demoblaze.com/imgs/front.jpg,304,Not Modified,Thread Group 1-1,,true,,165,435,3,3,https://www.demoblaze.com/imgs/front.jpg,0,0,0
+1728906040592,682,ViewCart,200,OK,Thread Group 1-1,text,true,,203,441,3,3,https://api.demoblaze.com/viewcart,682,0,291
+1728906041275,268,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,304,Not Modified,Thread Group 1-1,,true,,165,418,3,3,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,0,0,0
+1728906041544,346,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,304,Not Modified,Thread Group 1-1,,true,,165,398,3,3,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,0,0,0
+1728906041890,305,https://www.demoblaze.com/iphone1.jpg,304,Not Modified,Thread Group 1-1,,true,,165,432,3,3,https://www.demoblaze.com/iphone1.jpg,0,0,0
+1728906042196,252,https://www.demoblaze.com/nexus1.jpg,304,Not Modified,Thread Group 1-1,,true,,165,431,3,3,https://www.demoblaze.com/nexus1.jpg,0,0,0
+1728906042449,0,Debug Sampler,200,OK,Thread Group 1-1,text,true,,553,0,3,3,null,0,0,0
+1728906042450,297,AddToCart,200,OK,Thread Group 1-1,text,true,,197,501,3,3,https://api.demoblaze.com/addtocart,297,0,0
+1728906042748,0,Debug Sampler,200,OK,Thread Group 1-1,text,true,,553,0,3,3,null,0,0,0
+1728906042748,213,https://www.demoblaze.com/favicon.ico,304,Not Modified,Thread Group 1-1,,true,,165,432,3,3,https://www.demoblaze.com/favicon.ico,0,0,0
+1728906042961,361,https://www.demoblaze.com/config.json,304,Not Modified,Thread Group 1-1,,true,,165,448,3,3,https://www.demoblaze.com/config.json,0,0,0
+1728906043323,351,https://www.demoblaze.com/bm.png,304,Not Modified,Thread Group 1-1,,true,,165,427,3,3,https://www.demoblaze.com/bm.png,0,0,0
+1728906043674,365,https://www.demoblaze.com/css/fonts/Lato-Regular.woff2,304,Not Modified,Thread Group 1-1,,true,,165,388,3,3,https://www.demoblaze.com/css/fonts/Lato-Regular.woff2,0,0,0
+1728906044040,306,https://www.demoblaze.com/bm.png,304,Not Modified,Thread Group 1-1,,true,,165,427,3,3,https://www.demoblaze.com/bm.png,0,0,0
+1728906044347,226,https://www.demoblaze.com/js/cart.js,304,Not Modified,Thread Group 1-1,,true,,165,370,3,3,https://www.demoblaze.com/js/cart.js,0,0,0
+1728906044573,219,https://www.demoblaze.com/node_modules/bootstrap-sweetalert/dist/sweetalert.min.js,304,Not Modified,Thread Group 1-1,,true,,165,416,3,3,https://www.demoblaze.com/node_modules/bootstrap-sweetalert/dist/sweetalert.min.js,0,0,0
+1728906044793,226,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,304,Not Modified,Thread Group 1-1,,true,,165,407,3,3,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,0,0,0
+1728906045019,222,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,304,Not Modified,Thread Group 1-1,,true,,165,401,3,3,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,0,0,0
+1728906045242,228,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,304,Not Modified,Thread Group 1-1,,true,,165,424,3,3,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,0,0,0
+1728906045471,215,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,304,Not Modified,Thread Group 1-1,,true,,165,399,3,3,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,0,0,0
+1728906045687,100,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,304,Not Modified,Thread Group 1-1,,true,,165,398,3,3,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,0,0,0
+1728906045787,106,https://www.demoblaze.com/imgs/front.jpg,304,Not Modified,Thread Group 1-1,,true,,165,435,3,3,https://www.demoblaze.com/imgs/front.jpg,0,0,0
+1728906045894,228,https://www.demoblaze.com/css/latostyle.css,304,Not Modified,Thread Group 1-1,,true,,165,392,3,3,https://www.demoblaze.com/css/latostyle.css,0,0,0
+1728906046123,212,https://www.demoblaze.com/css/latofonts.css,304,Not Modified,Thread Group 1-1,,true,,165,392,3,3,https://www.demoblaze.com/css/latofonts.css,0,0,0
+1728906046336,221,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,304,Not Modified,Thread Group 1-1,,true,,165,418,3,3,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,0,0,0
+1728906046557,252,https://www.demoblaze.com/node_modules/bootstrap-sweetalert/dist/sweetalert.css,304,Not Modified,Thread Group 1-1,,true,,165,428,3,3,https://www.demoblaze.com/node_modules/bootstrap-sweetalert/dist/sweetalert.css,0,0,0
+1728906046809,300,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,304,Not Modified,Thread Group 1-1,,true,,165,424,3,3,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,0,0,0
+1728906051345,374,https://www.demoblaze.com/cart.html,304,Not Modified,Thread Group 1-1,,true,,165,780,3,3,https://www.demoblaze.com/cart.html,0,0,0
+1728906051719,217,https://www.demoblaze.com/favicon.ico,304,Not Modified,Thread Group 1-1,,true,,165,432,3,3,https://www.demoblaze.com/favicon.ico,0,0,0
+1728906051936,294,https://www.demoblaze.com/css/latostyle.css,304,Not Modified,Thread Group 1-1,,true,,165,392,3,3,https://www.demoblaze.com/css/latostyle.css,0,0,0
+1728906052230,813,https://www.demoblaze.com/imgs/Lumia_1520.jpg,304,Not Modified,Thread Group 1-1,,true,,165,440,3,3,https://www.demoblaze.com/imgs/Lumia_1520.jpg,0,0,0
+1728906053044,227,https://www.demoblaze.com/bm.png,304,Not Modified,Thread Group 1-1,,true,,165,427,3,3,https://www.demoblaze.com/bm.png,0,0,0
+1728906053271,346,https://www.demoblaze.com/css/latofonts.css,304,Not Modified,Thread Group 1-1,,true,,165,392,3,3,https://www.demoblaze.com/css/latofonts.css,0,0,0
+1728906053617,467,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,304,Not Modified,Thread Group 1-1,,true,,266,410,3,3,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,0,0,270
+1728906054084,264,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,304,Not Modified,Thread Group 1-1,,true,,165,424,3,3,https://www.demoblaze.com/node_modules/bootstrap/dist/css/bootstrap.min.css,0,0,0
+1728906054348,236,https://hls.demoblaze.com/index.m3u8,304,Not Modified,Thread Group 1-1,,true,,266,396,3,3,https://hls.demoblaze.com/index.m3u8,0,0,0
+1728906054584,107,https://www.demoblaze.com/js/index.js,304,Not Modified,Thread Group 1-1,,true,,165,371,3,3,https://www.demoblaze.com/js/index.js,0,0,0
+1728906054691,235,https://www.demoblaze.com/Samsung1.jpg,304,Not Modified,Thread Group 1-1,,true,,165,433,3,3,https://www.demoblaze.com/Samsung1.jpg,0,0,0
+1728906054927,212,https://www.demoblaze.com/css/fonts/Lato-Regular.woff2,304,Not Modified,Thread Group 1-1,,true,,165,388,3,3,https://www.demoblaze.com/css/fonts/Lato-Regular.woff2,0,0,0
+1728906055140,211,https://www.demoblaze.com/bm.png,304,Not Modified,Thread Group 1-1,,true,,165,427,3,3,https://www.demoblaze.com/bm.png,0,0,0
+1728906055352,269,https://www.demoblaze.com/config.json,304,Not Modified,Thread Group 1-1,,true,,165,448,3,3,https://www.demoblaze.com/config.json,0,0,0
+1728906055621,4500,Check,200,OK,Thread Group 1-1,text,true,,298,425,3,3,https://api.demoblaze.com/check,4500,0,0
+1728906060121,262,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,304,Not Modified,Thread Group 1-1,,true,,165,401,3,3,https://www.demoblaze.com/node_modules/tether/dist/js/tether.min.js,0,0,0
+1728906060384,306,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,304,Not Modified,Thread Group 1-1,,true,,165,399,3,3,https://www.demoblaze.com/node_modules/video.js/dist/video.min.js,0,0,0
+1728906060690,551,https://www.demoblaze.com/favicon.ico,304,Not Modified,Thread Group 1-1,,true,,165,432,3,3,https://www.demoblaze.com/favicon.ico,0,0,0
+1728906061242,1571,View,200,OK,Thread Group 1-1,text,true,,432,399,3,3,https://api.demoblaze.com/view,1571,0,0
+1728906062813,6140,DeleteCart,200,OK,Thread Group 1-1,text,true,,206,421,3,3,https://api.demoblaze.com/deletecart,6140,0,0
+1728906068954,283,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,304,Not Modified,Thread Group 1-1,,true,,165,424,3,3,https://www.demoblaze.com/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js,0,0,0
+1728906069238,297,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,304,Not Modified,Thread Group 1-1,,true,,266,413,3,3,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,0,0,0
+1728906098744,794,https://www.demoblaze.com/index.html,304,Not Modified,Thread Group 1-1,,true,,165,781,2,2,https://www.demoblaze.com/index.html,0,0,436
+1728906099539,409,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,304,Not Modified,Thread Group 1-1,,true,,165,407,2,2,https://www.demoblaze.com/node_modules/bootstrap/dist/js/bootstrap.min.js,0,0,0
+1728906099949,394,https://www.demoblaze.com/imgs/front.jpg,304,Not Modified,Thread Group 1-1,,true,,165,435,2,2,https://www.demoblaze.com/imgs/front.jpg,0,0,0
+1728906100344,8147,ViewCart,200,OK,Thread Group 1-1,text,true,,203,441,1,1,https://api.demoblaze.com/viewcart,8147,0,0
+1728906108493,272,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,304,Not Modified,Thread Group 1-1,,true,,165,418,1,1,https://www.demoblaze.com/node_modules/video.js/dist/video-js.min.css,0,0,0
+1728906108765,259,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,304,Not Modified,Thread Group 1-1,,true,,165,398,1,1,https://www.demoblaze.com/node_modules/jquery/dist/jquery.min.js,0,0,0
+1728906109025,258,https://www.demoblaze.com/iphone1.jpg,304,Not Modified,Thread Group 1-1,,true,,165,432,1,1,https://www.demoblaze.com/iphone1.jpg,0,0,0
+1728906109284,289,https://www.demoblaze.com/nexus1.jpg,304,Not Modified,Thread Group 1-1,,true,,165,431,1,1,https://www.demoblaze.com/nexus1.jpg,0,0,0
+1728906109574,0,Debug Sampler,200,OK,Thread Group 1-1,text,true,,553,0,1,1,null,0,0,0
+1728906109577,36696,Transaction Controller Checkout,200,"Number of samples in transaction : 36, number of failing samples : 0",Thread Group 1-1,,true,,15549,15168,1,1,null,0,3154,726
+1728906109578,1772,https://api.demoblaze.com/check,200,OK,Thread Group 1-1,text,true,,298,425,1,1,https://api.demoblaze.com/check,1772,0,413
+1728906111350,8892,https://api.demoblaze.com/entries,200,OK,Thread Group 1-1,text,true,,2931,342,1,1,https://api.demoblaze.com/entries,8892,0,0
+1728906120242,501,https://hls.demoblaze.com/index.m3u8,304,Not Modified,Thread Group 1-1,,true,,267,396,1,1,https://hls.demoblaze.com/index.m3u8,0,0,313
+1728906120744,253,https://www.demoblaze.com/imgs/galaxy_s6.jpg,304,Not Modified,Thread Group 1-1,,true,,165,439,1,1,https://www.demoblaze.com/imgs/galaxy_s6.jpg,0,0,0
+1728906120998,254,https://www.demoblaze.com/imgs/Lumia_1520.jpg,304,Not Modified,Thread Group 1-1,,true,,165,440,1,1,https://www.demoblaze.com/imgs/Lumia_1520.jpg,0,0,0
+1728906121253,710,https://www.demoblaze.com/imgs/Nexus_6.jpg,304,Not Modified,Thread Group 1-1,,true,,165,437,1,1,https://www.demoblaze.com/imgs/Nexus_6.jpg,0,0,0
+1728906121963,308,https://www.demoblaze.com/imgs/iphone_6.jpg,304,Not Modified,Thread Group 1-1,,true,,165,438,1,1,https://www.demoblaze.com/imgs/iphone_6.jpg,0,0,0
+1728906122272,408,https://www.demoblaze.com/imgs/xperia_z5.jpg,304,Not Modified,Thread Group 1-1,,true,,165,439,1,1,https://www.demoblaze.com/imgs/xperia_z5.jpg,0,0,0
+1728906122681,336,https://www.demoblaze.com/imgs/HTC_M9.jpg,304,Not Modified,Thread Group 1-1,,true,,165,436,1,1,https://www.demoblaze.com/imgs/HTC_M9.jpg,0,0,0
+1728906123018,277,https://www.demoblaze.com/imgs/sony_vaio_5.jpg,304,Not Modified,Thread Group 1-1,,true,,165,441,1,1,https://www.demoblaze.com/imgs/sony_vaio_5.jpg,0,0,0
+1728906123296,118,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,304,Not Modified,Thread Group 1-1,,true,,266,410,1,1,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,0,0,0
+1728906123414,295,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,304,Not Modified,Thread Group 1-1,,true,,266,413,1,1,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,0,0,0
+1728906124782,8058,https://api.demoblaze.com/check,200,OK,Thread Group 1-1,text,true,,298,425,1,1,https://api.demoblaze.com/check,8058,0,0
+1728906132841,8098,https://api.demoblaze.com/entries,200,OK,Thread Group 1-1,text,true,,2931,342,1,1,https://api.demoblaze.com/entries,8098,0,0
+1728906140940,180,https://hls.demoblaze.com/index.m3u8,304,Not Modified,Thread Group 1-1,,true,,267,396,1,1,https://hls.demoblaze.com/index.m3u8,0,0,0
+1728906141121,311,https://www.demoblaze.com/imgs/galaxy_s6.jpg,304,Not Modified,Thread Group 1-1,,true,,165,439,1,1,https://www.demoblaze.com/imgs/galaxy_s6.jpg,0,0,0
+1728906141433,205,https://www.demoblaze.com/imgs/Lumia_1520.jpg,304,Not Modified,Thread Group 1-1,,true,,165,440,1,1,https://www.demoblaze.com/imgs/Lumia_1520.jpg,0,0,0
+1728906141639,215,https://www.demoblaze.com/imgs/Nexus_6.jpg,304,Not Modified,Thread Group 1-1,,true,,165,437,1,1,https://www.demoblaze.com/imgs/Nexus_6.jpg,0,0,0
+1728906141855,388,https://www.demoblaze.com/imgs/iphone_6.jpg,304,Not Modified,Thread Group 1-1,,true,,165,438,1,1,https://www.demoblaze.com/imgs/iphone_6.jpg,0,0,0
+1728906142243,302,https://www.demoblaze.com/imgs/xperia_z5.jpg,304,Not Modified,Thread Group 1-1,,true,,165,439,1,1,https://www.demoblaze.com/imgs/xperia_z5.jpg,0,0,0
+1728906142545,414,https://www.demoblaze.com/imgs/HTC_M9.jpg,304,Not Modified,Thread Group 1-1,,true,,165,436,1,1,https://www.demoblaze.com/imgs/HTC_M9.jpg,0,0,0
+1728906142960,307,https://www.demoblaze.com/imgs/sony_vaio_5.jpg,304,Not Modified,Thread Group 1-1,,true,,165,441,1,1,https://www.demoblaze.com/imgs/sony_vaio_5.jpg,0,0,0
+1728906143267,303,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,304,Not Modified,Thread Group 1-1,,true,,266,410,1,1,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,0,0,0
+1728906143571,133,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,304,Not Modified,Thread Group 1-1,,true,,266,413,1,1,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,0,0,0
+1728906144727,283,https://api.demoblaze.com/check,200,OK,Thread Group 1-1,text,true,,298,425,1,1,https://api.demoblaze.com/check,283,0,0
+1728906145011,1222,https://api.demoblaze.com/entries,200,OK,Thread Group 1-1,text,true,,2931,342,1,1,https://api.demoblaze.com/entries,1222,0,0
+1728906146234,145,https://hls.demoblaze.com/index.m3u8,304,Not Modified,Thread Group 1-1,,true,,267,396,1,1,https://hls.demoblaze.com/index.m3u8,0,0,0
+1728906146380,181,https://www.demoblaze.com/imgs/galaxy_s6.jpg,304,Not Modified,Thread Group 1-1,,true,,165,439,1,1,https://www.demoblaze.com/imgs/galaxy_s6.jpg,0,0,0
+1728906146561,223,https://www.demoblaze.com/imgs/Lumia_1520.jpg,304,Not Modified,Thread Group 1-1,,true,,165,440,1,1,https://www.demoblaze.com/imgs/Lumia_1520.jpg,0,0,0
+1728906146785,264,https://www.demoblaze.com/imgs/Nexus_6.jpg,304,Not Modified,Thread Group 1-1,,true,,165,437,1,1,https://www.demoblaze.com/imgs/Nexus_6.jpg,0,0,0
+1728906147050,216,https://www.demoblaze.com/imgs/iphone_6.jpg,304,Not Modified,Thread Group 1-1,,true,,165,438,1,1,https://www.demoblaze.com/imgs/iphone_6.jpg,0,0,0
+1728906147266,297,https://www.demoblaze.com/imgs/xperia_z5.jpg,304,Not Modified,Thread Group 1-1,,true,,165,439,1,1,https://www.demoblaze.com/imgs/xperia_z5.jpg,0,0,0
+1728906147563,235,https://www.demoblaze.com/imgs/HTC_M9.jpg,304,Not Modified,Thread Group 1-1,,true,,165,436,1,1,https://www.demoblaze.com/imgs/HTC_M9.jpg,0,0,0
+1728906147799,213,https://www.demoblaze.com/imgs/sony_vaio_5.jpg,304,Not Modified,Thread Group 1-1,,true,,165,441,1,1,https://www.demoblaze.com/imgs/sony_vaio_5.jpg,0,0,0
+1728906148012,173,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,304,Not Modified,Thread Group 1-1,,true,,266,410,1,1,https://hls.demoblaze.com/about_demo_hls_600k.m3u8,0,0,0
+1728906148186,206,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,304,Not Modified,Thread Group 1-1,,true,,266,413,1,1,https://hls.demoblaze.com/about_demo_hls_600k00000.ts,0,0,0
+1728906149428,0,Debug Sampler,200,OK,Thread Group 1-1,text,true,,552,0,1,1,null,0,0,0
